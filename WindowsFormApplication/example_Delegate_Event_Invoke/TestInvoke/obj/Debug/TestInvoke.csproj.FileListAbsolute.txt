@@ -1,0 +1,11 @@
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\bin\Debug\TestInvoke.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\bin\Debug\TestInvoke.exe
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\bin\Debug\TestInvoke.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.Form1.resources
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.exe
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.pdb
+E:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\bin\Debug\TestInvoke.exe.config
+E:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.exe
+E:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.pdb

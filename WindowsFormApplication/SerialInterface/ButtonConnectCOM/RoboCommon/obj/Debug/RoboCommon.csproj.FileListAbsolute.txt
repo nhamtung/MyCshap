@@ -1,0 +1,5 @@
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommon\bin\Debug\RoboCommon.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommon\bin\Debug\RoboCommon.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommon\obj\Debug\RoboCommon.csprojResolveAssemblyReference.cache
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommon\obj\Debug\RoboCommon.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommon\obj\Debug\RoboCommon.pdb

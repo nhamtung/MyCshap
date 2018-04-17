@@ -1,0 +1,27 @@
+E:\AVG\Tung\Application\ConnectSerial\ConnectSerial\bin\Debug\ConnectSerial.exe.config
+E:\AVG\Tung\Application\ConnectSerial\ConnectSerial\bin\Debug\ConnectSerial.exe
+E:\AVG\Tung\Application\ConnectSerial\ConnectSerial\bin\Debug\ConnectSerial.pdb
+E:\AVG\Tung\Application\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.csprojResolveAssemblyReference.cache
+E:\AVG\Tung\Application\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.Form1.resources
+E:\AVG\Tung\Application\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.Properties.Resources.resources
+E:\AVG\Tung\Application\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.csproj.GenerateResource.Cache
+E:\AVG\Tung\Application\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.exe
+E:\AVG\Tung\Application\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.pdb
+E:\TUNG\C Sharp\WindowsFormApplication\ConnectSerial\ConnectSerial\bin\Debug\ConnectSerial.exe.config
+E:\TUNG\C Sharp\WindowsFormApplication\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.exe
+E:\TUNG\C Sharp\WindowsFormApplication\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.pdb
+E:\TUNG\C Sharp\WindowsFormApplication\ConnectSerial\ConnectSerial\bin\Debug\ConnectSerial.exe
+E:\TUNG\C Sharp\WindowsFormApplication\ConnectSerial\ConnectSerial\bin\Debug\ConnectSerial.pdb
+E:\TUNG\C Sharp\WindowsFormApplication\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.csprojResolveAssemblyReference.cache
+E:\TUNG\C Sharp\WindowsFormApplication\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.Form1.resources
+E:\TUNG\C Sharp\WindowsFormApplication\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.Properties.Resources.resources
+E:\TUNG\C Sharp\WindowsFormApplication\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.csproj.GenerateResource.Cache
+E:\TUNG\C Sharp\WindowsFormApplication\SerialInterface\ConnectSerial\ConnectSerial\bin\Debug\ConnectSerial.exe.config
+E:\TUNG\C Sharp\WindowsFormApplication\SerialInterface\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.exe
+E:\TUNG\C Sharp\WindowsFormApplication\SerialInterface\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.pdb
+E:\TUNG\C Sharp\WindowsFormApplication\SerialInterface\ConnectSerial\ConnectSerial\bin\Debug\ConnectSerial.exe
+E:\TUNG\C Sharp\WindowsFormApplication\SerialInterface\ConnectSerial\ConnectSerial\bin\Debug\ConnectSerial.pdb
+E:\TUNG\C Sharp\WindowsFormApplication\SerialInterface\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.csprojResolveAssemblyReference.cache
+E:\TUNG\C Sharp\WindowsFormApplication\SerialInterface\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.Form1.resources
+E:\TUNG\C Sharp\WindowsFormApplication\SerialInterface\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.Properties.Resources.resources
+E:\TUNG\C Sharp\WindowsFormApplication\SerialInterface\ConnectSerial\ConnectSerial\obj\Debug\ConnectSerial.csproj.GenerateResource.Cache

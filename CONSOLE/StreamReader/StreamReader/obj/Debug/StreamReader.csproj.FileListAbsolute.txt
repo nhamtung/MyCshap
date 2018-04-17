@@ -1,0 +1,6 @@
+E:\TUNG\C Sharp\CONSOLE\StreamReader\StreamReader\bin\Debug\StreamReader.exe.config
+E:\TUNG\C Sharp\CONSOLE\StreamReader\StreamReader\obj\Debug\StreamReader.csprojResolveAssemblyReference.cache
+E:\TUNG\C Sharp\CONSOLE\StreamReader\StreamReader\bin\Debug\StreamReader.exe
+E:\TUNG\C Sharp\CONSOLE\StreamReader\StreamReader\bin\Debug\StreamReader.pdb
+E:\TUNG\C Sharp\CONSOLE\StreamReader\StreamReader\obj\Debug\StreamReader.exe
+E:\TUNG\C Sharp\CONSOLE\StreamReader\StreamReader\obj\Debug\StreamReader.pdb

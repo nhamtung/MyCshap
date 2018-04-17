@@ -1,0 +1,13 @@
+﻿<Window x:Class="EmbedFlashInWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmbedFlashInWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <WebBrowser Name="myFlash" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+            Source = "D:/TUNG/C Sharp/WPF Application/EmbedFlashInWPF/welcome_kiosk.swf"></WebBrowser>
+    </Grid>
+</Window>

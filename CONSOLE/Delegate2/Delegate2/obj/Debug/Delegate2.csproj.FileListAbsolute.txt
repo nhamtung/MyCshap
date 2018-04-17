@@ -1,0 +1,5 @@
+D:\TUNG\C Sharp\CONSOLE\Delegate2\Delegate2\bin\Debug\Delegate2.exe.config
+D:\TUNG\C Sharp\CONSOLE\Delegate2\Delegate2\bin\Debug\Delegate2.exe
+D:\TUNG\C Sharp\CONSOLE\Delegate2\Delegate2\bin\Debug\Delegate2.pdb
+D:\TUNG\C Sharp\CONSOLE\Delegate2\Delegate2\obj\Debug\Delegate2.exe
+D:\TUNG\C Sharp\CONSOLE\Delegate2\Delegate2\obj\Debug\Delegate2.pdb

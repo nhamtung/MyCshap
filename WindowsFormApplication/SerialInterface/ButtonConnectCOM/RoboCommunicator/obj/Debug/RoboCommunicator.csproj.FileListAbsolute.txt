@@ -1,0 +1,17 @@
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommunicator\bin\Debug\RoboCommunicator.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommunicator\bin\Debug\RoboCommunicator.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommunicator\bin\Debug\RoboCommon.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommunicator\bin\Debug\RoboCommon.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommunicator\obj\Debug\RoboCommunicator.csprojResolveAssemblyReference.cache
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommunicator\obj\Debug\RoboCommunicator.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboCommunicator\obj\Debug\RoboCommunicator.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\RoboCommunicator\obj\Debug\RoboCommunicator.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\RoboCommunicator\obj\Debug\RoboCommunicator.dll
+D:\TUNG\C Sharp\WindowsFormApplication\RoboCommunicator\obj\Debug\RoboCommunicator.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\RoboCommunicator\bin\Debug\RoboCommunicator.dll
+D:\TUNG\C Sharp\WindowsFormApplication\RoboCommunicator\bin\Debug\RoboCommunicator.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\RoboCommunicator\bin\Debug\RoboCommon.dll
+D:\TUNG\C Sharp\WindowsFormApplication\RoboCommunicator\bin\Debug\RoboCommon.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\ButtonConnectCOM\RoboCommunicator\obj\Debug\RoboCommunicator.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\ButtonConnectCOM\RoboCommunicator\obj\Debug\RoboCommunicator.dll
+D:\TUNG\C Sharp\WindowsFormApplication\ButtonConnectCOM\RoboCommunicator\obj\Debug\RoboCommunicator.pdb

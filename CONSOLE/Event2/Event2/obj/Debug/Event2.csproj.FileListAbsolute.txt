@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Event2\Event2\bin\Debug\Event2.exe.config
+D:\TUNG\C Sharp\CONSOLE\Event2\Event2\bin\Debug\Event2.exe
+D:\TUNG\C Sharp\CONSOLE\Event2\Event2\bin\Debug\Event2.pdb
+D:\TUNG\C Sharp\CONSOLE\Event2\Event2\obj\Debug\Event2.exe
+D:\TUNG\C Sharp\CONSOLE\Event2\Event2\obj\Debug\Event2.pdb
+D:\TUNG\C Sharp\CONSOLE\Event2\Event2\obj\Debug\Event2.csprojResolveAssemblyReference.cache
