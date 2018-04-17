@@ -1,0 +1,32 @@
+﻿<Window x:Class="ContextMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ContextMenu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <RichTextBox Name="txt_Message" Width="400" Height="300" FontSize="17">
+            <RichTextBox.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Name="mItem_Bold" Header="Bold" IsCheckable="True" Checked="mItem_Bold_OnChecked" Unchecked="mItem_Bold_Unchecked"></MenuItem>
+                    <MenuItem Name="mItem_Italic" Header="Italic" IsCheckable="True" Checked="mItem_Italic_OnChecked" Unchecked="mItem_Italic_OnUnchecked"></MenuItem>
+                    <MenuItem Header="Font_Size">
+                        <Menu>
+                            <Menu.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Vertical"></StackPanel>
+                                </ItemsPanelTemplate>
+                            </Menu.ItemsPanel>
+                            
+                            <MenuItem Name="mItem_20pt" Header="20pt" FontSize="20pt" Checked="mItem_20pt_Checked"></MenuItem>
+                            <MenuItem Name="mItem_15pt" Header="15pt" FontSize="15pt" Checked="mItem_15pt_Checked"></MenuItem>
+                            <MenuItem Name="mItem_10pt" Header="10pt" FontSize="10pt" Checked="mItem_10pt_Checked"></MenuItem>
+                        </Menu>
+                    </MenuItem>
+                </ContextMenu>
+            </RichTextBox.ContextMenu>
+        </RichTextBox>
+    </Grid>
+</Window>
