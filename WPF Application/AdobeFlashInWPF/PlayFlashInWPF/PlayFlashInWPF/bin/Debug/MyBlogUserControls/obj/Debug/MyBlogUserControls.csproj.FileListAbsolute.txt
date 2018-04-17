@@ -1,0 +1,38 @@
+h:\Projects\WPFLibTester\MyBlogUserControls\bin\Debug\MyBlogUserControls.Contracts.dll
+h:\Projects\WPFLibTester\MyBlogUserControls\bin\Debug\MyBlogUserControls.Contracts.pdb
+h:\Projects\WPFLibTester\MyBlogUserControls\bin\Debug\MyBlogUserControls.dll
+h:\Projects\WPFLibTester\MyBlogUserControls\bin\Debug\MyBlogUserControls.pdb
+h:\Projects\WPFLibTester\MyBlogUserControls\bin\Debug\Interop.ShockwaveFlashObjects.dll
+h:\Projects\WPFLibTester\MyBlogUserControls\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\ResolveAssemblyReference.cache
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\Interop.ShockwaveFlashObjects.dll
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\MyBlogUserControls.csproj.ResolveComReference.cache
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\FlashPlayer.baml
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\UserControl1.baml
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\FlashPlayer.g.cs
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\UserControl1.g.cs
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\MyBlogUserControls_MarkupCompile.cache
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\MyBlogUserControls.g.resources
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\MyBlogUserControls.Properties.Resources.resources
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\MyBlogUserControls.WFFlashPlayer.resources
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\MyBlogUserControls.csproj.GenerateResource.Cache
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\MyBlogUserControls.dll
+h:\Projects\WPFLibTester\MyBlogUserControls\obj\Debug\MyBlogUserControls.pdb
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\bin\Debug\MyBlogUserControls.dll
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\bin\Debug\MyBlogUserControls.pdb
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\MyBlogUserControls.csprojResolveAssemblyReference.cache
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\MyBlogUserControls.csproj.ResolveComReference.cache
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\FlashPlayer.baml
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\FlashPlayer.g.cs
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\MyBlogUserControls_MarkupCompile.cache
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\MyBlogUserControls.g.resources
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\MyBlogUserControls.Properties.Resources.resources
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\MyBlogUserControls.WFFlashPlayer.resources
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\MyBlogUserControls.csproj.GenerateResource.Cache
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\MyBlogUserControls.dll
+C:\Users\Nham Tung\Downloads\MyBlogUserControls_13A8E0A6\MyBlogUserControls\obj\Debug\MyBlogUserControls.pdb

@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Structure\Structure\bin\Debug\Structure.exe.config
+D:\TUNG\C Sharp\CONSOLE\Structure\Structure\bin\Debug\Structure.exe
+D:\TUNG\C Sharp\CONSOLE\Structure\Structure\bin\Debug\Structure.pdb
+D:\TUNG\C Sharp\CONSOLE\Structure\Structure\obj\Debug\Structure.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Structure\Structure\obj\Debug\Structure.exe
+D:\TUNG\C Sharp\CONSOLE\Structure\Structure\obj\Debug\Structure.pdb

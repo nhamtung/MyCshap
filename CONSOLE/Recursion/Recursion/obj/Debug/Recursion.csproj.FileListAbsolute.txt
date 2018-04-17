@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Recursion\Recursion\bin\Debug\Recursion.exe.config
+D:\TUNG\C Sharp\CONSOLE\Recursion\Recursion\bin\Debug\Recursion.exe
+D:\TUNG\C Sharp\CONSOLE\Recursion\Recursion\bin\Debug\Recursion.pdb
+D:\TUNG\C Sharp\CONSOLE\Recursion\Recursion\obj\Debug\Recursion.exe
+D:\TUNG\C Sharp\CONSOLE\Recursion\Recursion\obj\Debug\Recursion.pdb
+D:\TUNG\C Sharp\CONSOLE\Recursion\Recursion\obj\Debug\Recursion.csprojResolveAssemblyReference.cache

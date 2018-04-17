@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\TUNG\C Sharp\CONSOLE\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\TUNG\C Sharp\CONSOLE\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\TUNG\C Sharp\CONSOLE\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\TUNG\C Sharp\CONSOLE\LINQ\LINQ\obj\Debug\LINQ.pdb
+D:\TUNG\C Sharp\CONSOLE\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache

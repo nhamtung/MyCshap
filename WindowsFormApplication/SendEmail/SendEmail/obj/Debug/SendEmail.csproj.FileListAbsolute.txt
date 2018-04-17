@@ -1,0 +1,8 @@
+D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.Form1.resources
+D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.pdb

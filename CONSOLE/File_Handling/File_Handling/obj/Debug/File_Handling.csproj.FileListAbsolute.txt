@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\File_Handling\File_Handling\bin\Debug\File_Handling.exe.config
+D:\TUNG\C Sharp\CONSOLE\File_Handling\File_Handling\bin\Debug\File_Handling.exe
+D:\TUNG\C Sharp\CONSOLE\File_Handling\File_Handling\bin\Debug\File_Handling.pdb
+D:\TUNG\C Sharp\CONSOLE\File_Handling\File_Handling\obj\Debug\File_Handling.exe
+D:\TUNG\C Sharp\CONSOLE\File_Handling\File_Handling\obj\Debug\File_Handling.pdb
+D:\TUNG\C Sharp\CONSOLE\File_Handling\File_Handling\obj\Debug\File_Handling.csprojResolveAssemblyReference.cache

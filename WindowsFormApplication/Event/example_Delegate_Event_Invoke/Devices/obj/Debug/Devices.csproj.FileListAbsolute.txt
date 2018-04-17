@@ -1,0 +1,10 @@
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Devices\bin\Debug\Devices.dll
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Devices\bin\Debug\Devices.pdb
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Devices\obj\Debug\Devices.dll
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Devices\obj\Debug\Devices.pdb
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Devices\obj\Debug\Devices.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Devices\bin\Debug\Devices.dll
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Devices\bin\Debug\Devices.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Devices\obj\Debug\Devices.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Devices\obj\Debug\Devices.dll
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Devices\obj\Debug\Devices.pdb

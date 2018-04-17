@@ -1,0 +1,14 @@
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\bin\Debug\EmbedFlashToForm.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\bin\Debug\EmbedFlashToForm.exe
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\bin\Debug\EmbedFlashToForm.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\obj\Debug\EmbedFlashToForm.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\obj\Debug\EmbedFlashToForm.csproj.ResolveComReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\obj\Debug\EmbedFlashToForm.Form1.resources
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\obj\Debug\EmbedFlashToForm.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\obj\Debug\EmbedFlashToForm.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\obj\Debug\EmbedFlashToForm.exe
+D:\TUNG\C Sharp\WindowsFormApplication\EmbedFlashToForm\EmbedFlashToForm\obj\Debug\EmbedFlashToForm.pdb

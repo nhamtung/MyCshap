@@ -1,0 +1,15 @@
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\bin\Debug\DisrectionSensor.exe.config
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\obj\Debug\DisrectionSensor.exe
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\obj\Debug\DisrectionSensor.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\bin\Debug\DisrectionSensor.exe
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\bin\Debug\DisrectionSensor.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\bin\Debug\RoboCommunicator.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\bin\Debug\RoboFW.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\bin\Debug\RoboCommon.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\bin\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\bin\Debug\RoboCommunicator.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\bin\Debug\RoboCommon.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\obj\Debug\DirectionSensor.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\obj\Debug\DisrectionSensor.Form1.resources
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\obj\Debug\DisrectionSensor.Properties.Resources.resources
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\DirectionSensor\obj\Debug\DirectionSensor.csproj.GenerateResource.Cache

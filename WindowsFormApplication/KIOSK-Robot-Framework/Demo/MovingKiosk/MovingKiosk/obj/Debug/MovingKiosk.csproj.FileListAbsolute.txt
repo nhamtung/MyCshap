@@ -1,0 +1,22 @@
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\bin\Debug\MovingKiosk.exe.config
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\bin\Debug\MovingKiosk.exe
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\bin\Debug\MovingKiosk.pdb
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.Form1.resources
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.Properties.Resources.resources
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.exe
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.pdb
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\bin\Debug\API_Moving.dll
+D:\TUNG\C Sharp\MovingKiosk\MovingKiosk\bin\Debug\API_Moving.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\bin\Debug\MovingKiosk.exe.config
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.exe
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\bin\Debug\MovingKiosk.exe
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\bin\Debug\MovingKiosk.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\bin\Debug\API_Moving.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\bin\Debug\API_Moving.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.csprojResolveAssemblyReference.cache
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.Form1.resources
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.Properties.Resources.resources
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\MovingKiosk\obj\Debug\MovingKiosk.csproj.GenerateResource.Cache

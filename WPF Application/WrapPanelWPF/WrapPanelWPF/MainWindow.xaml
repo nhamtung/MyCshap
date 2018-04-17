@@ -1,0 +1,47 @@
+﻿<Window x:Class="WrapPanelWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WrapPanelWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="600">
+    
+    <WrapPanel>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\1.jpg" Margin="5" Height="60"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\2.jpg" Margin="5" Height="120"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\3.jpg" Margin="5" Height="60"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\4.jpg" Margin="10" Height="200"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\5.jpg" Margin="5" Height="360"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\6.jpg" Margin="5" Height="280"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\7.jpg" Margin="5" Height="60"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\8.jpg" Margin="5" Height="60"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\9.jpg" Margin="5" Height="97"></Image>
+    </WrapPanel>
+
+    <!--<Grid>
+        <Grid>
+            <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\1.jpg" Margin="5" Height="60"></Image>
+            <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\2.jpg" Margin="5" Height="120"></Image>
+            <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\3.jpg" Margin="5" Height="60"></Image>
+            <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\4.jpg" Margin="10" Height="200"></Image>
+            <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\5.jpg" Margin="5" Height="360"></Image>
+            <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\6.jpg" Margin="5" Height="280"></Image>
+            <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\7.jpg" Margin="5" Height="60"></Image>
+            <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\8.jpg" Margin="5" Height="60"></Image>
+            <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\9.jpg" Margin="5" Height="97"></Image>
+        </Grid>
+    </Grid>-->
+
+    <!--<StackPanel>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\1.jpg" Margin="5" Height="60"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\2.jpg" Margin="5" Height="120"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\3.jpg" Margin="5" Height="60"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\4.jpg" Margin="10" Height="200"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\5.jpg" Margin="5" Height="360"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\6.jpg" Margin="5" Height="280"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\7.jpg" Margin="5" Height="60"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\8.jpg" Margin="5" Height="60"></Image>
+        <Image Source="D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\Images\9.jpg" Margin="5" Height="97"></Image>
+    </StackPanel>-->
+</Window>

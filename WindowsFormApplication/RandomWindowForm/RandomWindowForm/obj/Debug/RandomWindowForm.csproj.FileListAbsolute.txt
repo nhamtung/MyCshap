@@ -1,0 +1,9 @@
+D:\TUNG\C Sharp\WindowsFormApplication\RandomWindowForm\RandomWindowForm\bin\Debug\RandomWindowForm.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\RandomWindowForm\RandomWindowForm\bin\Debug\RandomWindowForm.exe
+D:\TUNG\C Sharp\WindowsFormApplication\RandomWindowForm\RandomWindowForm\bin\Debug\RandomWindowForm.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\RandomWindowForm\RandomWindowForm\obj\Debug\RandomWindowForm.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\RandomWindowForm\RandomWindowForm\obj\Debug\RandomWindowForm.Form1.resources
+D:\TUNG\C Sharp\WindowsFormApplication\RandomWindowForm\RandomWindowForm\obj\Debug\RandomWindowForm.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\RandomWindowForm\RandomWindowForm\obj\Debug\RandomWindowForm.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\RandomWindowForm\RandomWindowForm\obj\Debug\RandomWindowForm.exe
+D:\TUNG\C Sharp\WindowsFormApplication\RandomWindowForm\RandomWindowForm\obj\Debug\RandomWindowForm.pdb

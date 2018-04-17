@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+D:\TUNG\C Sharp\CONSOLE\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+D:\TUNG\C Sharp\CONSOLE\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+D:\TUNG\C Sharp\CONSOLE\Helloworld\Helloworld\obj\Debug\Helloworld.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+D:\TUNG\C Sharp\CONSOLE\Helloworld\Helloworld\obj\Debug\Helloworld.pdb

@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+D:\TUNG\C Sharp\CONSOLE\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+D:\TUNG\C Sharp\CONSOLE\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+D:\TUNG\C Sharp\CONSOLE\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+D:\TUNG\C Sharp\CONSOLE\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

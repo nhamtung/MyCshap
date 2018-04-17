@@ -1,0 +1,5 @@
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual2\bin\Debug\Virtual2.exe.config
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual2\bin\Debug\Virtual2.exe
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual2\bin\Debug\Virtual2.pdb
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual2\obj\Debug\Virtual2.exe
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual2\obj\Debug\Virtual2.pdb

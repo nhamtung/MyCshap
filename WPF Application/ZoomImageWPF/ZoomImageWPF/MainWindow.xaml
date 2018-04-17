@@ -1,0 +1,16 @@
+﻿<Window x:Class="ZoomImageWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZoomImageWPF"
+        xmlns:ab2d="clr-namespace:Ab2d.Controls;assembly=Ab2d.Controls.ZoomPanel"
+    mc:Ignorable="d"
+        Title="ZoomImage" Height="700" Width="500">
+    <Grid>
+        <Canvas Name="CavRoot" Background="Black">
+            <Image Name="imgKiosk" Canvas.Left="0" Canvas.Top="0" Width="150" Height="150"
+                   Source="D:\TUNG\C Sharp\WPF Application\ZoomImageWPF\7.jpg"/>
+        </Canvas>
+    </Grid>
+</Window>

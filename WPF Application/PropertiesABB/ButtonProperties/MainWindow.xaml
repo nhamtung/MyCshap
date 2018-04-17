@@ -1,0 +1,15 @@
+﻿<Window x:Class="ButtonProperties.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ButtonProperties"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Name="btnButton" Height="100" Width="200" FontSize="30" MouseEnter="btnButton_MouseEnter" MouseLeave="btnButton_MouseLeave" Click="btnButton_Click">Owen</Button>
+        <Label Name="labButton" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,200,0,0" FontSize="30"></Label>
+
+        <Frame x:Name="Main"/>
+    </Grid>
+</Window>

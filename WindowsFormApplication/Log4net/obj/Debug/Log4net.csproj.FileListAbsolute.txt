@@ -1,0 +1,10 @@
+D:\TUNG\C Sharp\WindowsFormApplication\Log4net\bin\Debug\Log4net.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\Log4net\bin\Debug\Log4net.exe
+D:\TUNG\C Sharp\WindowsFormApplication\Log4net\bin\Debug\Log4net.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\Log4net\bin\Debug\log4net.dll
+D:\TUNG\C Sharp\WindowsFormApplication\Log4net\bin\Debug\log4net.xml
+D:\TUNG\C Sharp\WindowsFormApplication\Log4net\obj\Debug\Log4net.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\Log4net\obj\Debug\Log4net.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\Log4net\obj\Debug\Log4net.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\Log4net\obj\Debug\Log4net.exe
+D:\TUNG\C Sharp\WindowsFormApplication\Log4net\obj\Debug\Log4net.pdb

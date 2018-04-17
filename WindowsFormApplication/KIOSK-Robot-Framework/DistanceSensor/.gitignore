@@ -1,0 +1,12 @@
+packages/MSTest.TestFramework.1.1.11/
+*.dll
+*.pdb
+*.exe
+RoboSimulator/obj/
+RoboSimulator/bin/
+*/obj/*
+*/bin/*
+packages/
+*.suo
+*Debug*
+UpgradeLog.htm

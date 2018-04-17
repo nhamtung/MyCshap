@@ -1,0 +1,12 @@
+D:\TUNG\C Sharp\WindowsFormApplication\PictureBox1\MouseAndKeyboard\bin\Debug\MouseAndKeyboard.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\bin\Debug\MouseAndKeyboard.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\bin\Debug\MouseAndKeyboard.exe
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\bin\Debug\MouseAndKeyboard.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\bin\Debug\DetectMouseAndKeyboard.dll
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\bin\Debug\DetectMouseAndKeyboard.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\obj\Debug\MouseAndKeyboard.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\obj\Debug\MouseAndKeyboard.Form1.resources
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\obj\Debug\MouseAndKeyboard.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\obj\Debug\MouseAndKeyboard.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\obj\Debug\MouseAndKeyboard.exe
+D:\TUNG\C Sharp\WindowsFormApplication\MouseAndKeyboard\obj\Debug\MouseAndKeyboard.pdb

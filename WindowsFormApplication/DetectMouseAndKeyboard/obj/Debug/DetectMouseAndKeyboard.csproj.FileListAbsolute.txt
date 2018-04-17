@@ -1,0 +1,5 @@
+D:\TUNG\C Sharp\WindowsFormApplication\DetectMouseAndKeyboard\bin\Debug\DetectMouseAndKeyboard.dll
+D:\TUNG\C Sharp\WindowsFormApplication\DetectMouseAndKeyboard\bin\Debug\DetectMouseAndKeyboard.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\DetectMouseAndKeyboard\obj\Debug\DetectMouseAndKeyboard.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\DetectMouseAndKeyboard\obj\Debug\DetectMouseAndKeyboard.dll
+D:\TUNG\C Sharp\WindowsFormApplication\DetectMouseAndKeyboard\obj\Debug\DetectMouseAndKeyboard.pdb

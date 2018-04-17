@@ -1,0 +1,8 @@
+D:\TUNG\C Sharp\WindowsFormApplication\TCP.IP\Client\Client\bin\Debug\Client.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\TCP.IP\Client\Client\bin\Debug\Client.exe
+D:\TUNG\C Sharp\WindowsFormApplication\TCP.IP\Client\Client\bin\Debug\Client.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.exe
+D:\TUNG\C Sharp\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.Client.resources

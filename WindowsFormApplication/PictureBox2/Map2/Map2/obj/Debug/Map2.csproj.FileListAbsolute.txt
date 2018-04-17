@@ -1,0 +1,9 @@
+D:\TUNG\C Sharp\PictureBox2\Map2\Map2\bin\Debug\Map2.exe.config
+D:\TUNG\C Sharp\PictureBox2\Map2\Map2\bin\Debug\Map2.exe
+D:\TUNG\C Sharp\PictureBox2\Map2\Map2\bin\Debug\Map2.pdb
+D:\TUNG\C Sharp\PictureBox2\Map2\Map2\obj\Debug\Map2.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\PictureBox2\Map2\Map2\obj\Debug\Map2.Form1.resources
+D:\TUNG\C Sharp\PictureBox2\Map2\Map2\obj\Debug\Map2.Properties.Resources.resources
+D:\TUNG\C Sharp\PictureBox2\Map2\Map2\obj\Debug\Map2.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\PictureBox2\Map2\Map2\obj\Debug\Map2.exe
+D:\TUNG\C Sharp\PictureBox2\Map2\Map2\obj\Debug\Map2.pdb

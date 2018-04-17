@@ -1,0 +1,10 @@
+D:\TUNG\C Sharp\MovingKiosk\API_Moving\bin\Debug\API_Moving.dll
+D:\TUNG\C Sharp\MovingKiosk\API_Moving\bin\Debug\API_Moving.pdb
+D:\TUNG\C Sharp\MovingKiosk\API_Moving\obj\Debug\API_Moving.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\MovingKiosk\API_Moving\obj\Debug\API_Moving.dll
+D:\TUNG\C Sharp\MovingKiosk\API_Moving\obj\Debug\API_Moving.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\API_Moving\bin\Debug\API_Moving.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\API_Moving\bin\Debug\API_Moving.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\API_Moving\obj\Debug\API_Moving.csprojResolveAssemblyReference.cache
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\API_Moving\obj\Debug\API_Moving.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MovingKiosk\API_Moving\obj\Debug\API_Moving.pdb

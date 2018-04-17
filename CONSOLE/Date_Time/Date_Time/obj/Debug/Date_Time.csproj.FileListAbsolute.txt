@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Date_Time\Date_Time\bin\Debug\Date_Time.exe.config
+D:\TUNG\C Sharp\CONSOLE\Date_Time\Date_Time\bin\Debug\Date_Time.exe
+D:\TUNG\C Sharp\CONSOLE\Date_Time\Date_Time\bin\Debug\Date_Time.pdb
+D:\TUNG\C Sharp\CONSOLE\Date_Time\Date_Time\obj\Debug\Date_Time.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Date_Time\Date_Time\obj\Debug\Date_Time.exe
+D:\TUNG\C Sharp\CONSOLE\Date_Time\Date_Time\obj\Debug\Date_Time.pdb

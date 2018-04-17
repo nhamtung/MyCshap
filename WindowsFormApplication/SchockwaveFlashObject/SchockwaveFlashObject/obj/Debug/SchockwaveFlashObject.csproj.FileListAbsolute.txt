@@ -1,0 +1,7 @@
+D:\TUNG\C Sharp\WindowsFormApplication\SchockwaveFlashObject\SchockwaveFlashObject\obj\Debug\SchockwaveFlashObject.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\SchockwaveFlashObject\SchockwaveFlashObject\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\TUNG\C Sharp\WindowsFormApplication\SchockwaveFlashObject\SchockwaveFlashObject\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\TUNG\C Sharp\WindowsFormApplication\SchockwaveFlashObject\SchockwaveFlashObject\obj\Debug\SchockwaveFlashObject.csproj.ResolveComReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\SchockwaveFlashObject\SchockwaveFlashObject\obj\Debug\SchockwaveFlashObject.FlashAxControl.resources
+D:\TUNG\C Sharp\WindowsFormApplication\SchockwaveFlashObject\SchockwaveFlashObject\obj\Debug\SchockwaveFlashObject.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\SchockwaveFlashObject\SchockwaveFlashObject\obj\Debug\SchockwaveFlashObject.csproj.GenerateResource.Cache

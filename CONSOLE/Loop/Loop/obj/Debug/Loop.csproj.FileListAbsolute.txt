@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Loop\Loop\bin\Debug\Loop.exe.config
+D:\TUNG\C Sharp\CONSOLE\Loop\Loop\bin\Debug\Loop.exe
+D:\TUNG\C Sharp\CONSOLE\Loop\Loop\bin\Debug\Loop.pdb
+D:\TUNG\C Sharp\CONSOLE\Loop\Loop\obj\Debug\Loop.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Loop\Loop\obj\Debug\Loop.exe
+D:\TUNG\C Sharp\CONSOLE\Loop\Loop\obj\Debug\Loop.pdb

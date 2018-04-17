@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Operator\Operator\bin\Debug\Operator.exe.config
+D:\TUNG\C Sharp\CONSOLE\Operator\Operator\bin\Debug\Operator.exe
+D:\TUNG\C Sharp\CONSOLE\Operator\Operator\bin\Debug\Operator.pdb
+D:\TUNG\C Sharp\CONSOLE\Operator\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Operator\Operator\obj\Debug\Operator.exe
+D:\TUNG\C Sharp\CONSOLE\Operator\Operator\obj\Debug\Operator.pdb

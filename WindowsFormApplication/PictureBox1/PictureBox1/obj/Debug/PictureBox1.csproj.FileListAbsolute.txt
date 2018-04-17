@@ -1,0 +1,9 @@
+D:\TUNG\C Sharp\PictureBox1\PictureBox1\bin\Debug\PictureBox1.exe.config
+D:\TUNG\C Sharp\PictureBox1\PictureBox1\bin\Debug\PictureBox1.exe
+D:\TUNG\C Sharp\PictureBox1\PictureBox1\bin\Debug\PictureBox1.pdb
+D:\TUNG\C Sharp\PictureBox1\PictureBox1\obj\Debug\PictureBox1.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\PictureBox1\PictureBox1\obj\Debug\PictureBox1.Form1.resources
+D:\TUNG\C Sharp\PictureBox1\PictureBox1\obj\Debug\PictureBox1.Properties.Resources.resources
+D:\TUNG\C Sharp\PictureBox1\PictureBox1\obj\Debug\PictureBox1.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\PictureBox1\PictureBox1\obj\Debug\PictureBox1.exe
+D:\TUNG\C Sharp\PictureBox1\PictureBox1\obj\Debug\PictureBox1.pdb

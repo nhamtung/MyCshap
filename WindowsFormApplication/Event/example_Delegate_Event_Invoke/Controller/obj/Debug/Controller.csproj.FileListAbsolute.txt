@@ -1,0 +1,7 @@
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Controller\bin\Debug\Controller.dll
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Controller\bin\Debug\Controller.pdb
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Controller\bin\Debug\Frameworks.dll
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Controller\bin\Debug\Frameworks.pdb
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Controller\obj\Debug\Controller.dll
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Controller\obj\Debug\Controller.pdb

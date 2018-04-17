@@ -1,0 +1,12 @@
+D:\TUNG\C Sharp\CONSOLE\Events\Events\bin\Debug\Events.exe.config
+D:\TUNG\C Sharp\CONSOLE\Events\Events\bin\Debug\Events.exe
+D:\TUNG\C Sharp\CONSOLE\Events\Events\bin\Debug\Events.pdb
+D:\TUNG\C Sharp\CONSOLE\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Events\Events\obj\Debug\Events.exe
+D:\TUNG\C Sharp\CONSOLE\Events\Events\obj\Debug\Events.pdb
+D:\TUNG\C Sharp\CONSOLE\Event\Event\Events\Events\bin\Debug\Events.exe.config
+D:\TUNG\C Sharp\CONSOLE\Event\Event\Events\Events\obj\Debug\Events.exe
+D:\TUNG\C Sharp\CONSOLE\Event\Event\Events\Events\obj\Debug\Events.pdb
+D:\TUNG\C Sharp\CONSOLE\Event\Event\Events\Events\bin\Debug\Events.exe
+D:\TUNG\C Sharp\CONSOLE\Event\Event\Events\Events\bin\Debug\Events.pdb
+D:\TUNG\C Sharp\CONSOLE\Event\Event\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\bin\Debug\ButtonProperties.exe.config
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\bin\Debug\ButtonProperties.exe
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\bin\Debug\ButtonProperties.pdb
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\ButtonProperties.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\MainWindow.g.cs
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\App.g.cs
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\ButtonProperties_MarkupCompile.cache
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\ButtonProperties_MarkupCompile.lref
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\MainWindow.baml
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\ButtonProperties.g.resources
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\ButtonProperties.Properties.Resources.resources
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\ButtonProperties.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\ButtonProperties.exe
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\ButtonProperties.pdb
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\Page1.g.cs
+D:\TUNG\C Sharp\WPF Application\PropertiesABB\ButtonProperties\obj\Debug\Page1.baml

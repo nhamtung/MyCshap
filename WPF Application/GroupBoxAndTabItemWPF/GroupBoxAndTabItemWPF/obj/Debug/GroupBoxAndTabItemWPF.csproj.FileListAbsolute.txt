@@ -1,0 +1,14 @@
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\bin\Debug\GroupBoxAndTabItemWPF.exe.config
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\bin\Debug\GroupBoxAndTabItemWPF.exe
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\bin\Debug\GroupBoxAndTabItemWPF.pdb
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\GroupBoxAndTabItemWPF.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\MainWindow.g.cs
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\App.g.cs
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\GroupBoxAndTabItemWPF_MarkupCompile.cache
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\GroupBoxAndTabItemWPF_MarkupCompile.lref
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\MainWindow.baml
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\GroupBoxAndTabItemWPF.g.resources
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\GroupBoxAndTabItemWPF.Properties.Resources.resources
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\GroupBoxAndTabItemWPF.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\GroupBoxAndTabItemWPF.exe
+D:\TUNG\C Sharp\WPF Application\GroupBoxAndTabItemWPF\GroupBoxAndTabItemWPF\obj\Debug\GroupBoxAndTabItemWPF.pdb

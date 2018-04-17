@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Delegate_Simple\Delegate_Simple\bin\Debug\Delegate_Simple.exe.config
+D:\TUNG\C Sharp\CONSOLE\Delegate_Simple\Delegate_Simple\bin\Debug\Delegate_Simple.exe
+D:\TUNG\C Sharp\CONSOLE\Delegate_Simple\Delegate_Simple\bin\Debug\Delegate_Simple.pdb
+D:\TUNG\C Sharp\CONSOLE\Delegate_Simple\Delegate_Simple\obj\Debug\Delegate_Simple.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Delegate_Simple\Delegate_Simple\obj\Debug\Delegate_Simple.exe
+D:\TUNG\C Sharp\CONSOLE\Delegate_Simple\Delegate_Simple\obj\Debug\Delegate_Simple.pdb

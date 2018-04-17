@@ -1,0 +1,13 @@
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\obj\Debug\GetListContactGmail.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\obj\Debug\GetListContactGmail.Form1.resources
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\obj\Debug\GetListContactGmail.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\obj\Debug\GetListContactGmail.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\bin\Debug\GetListContactGmail.exe
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\bin\Debug\GetListContactGmail.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\bin\Debug\Google.GData.Client.dll
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\bin\Debug\Google.GData.Contacts.dll
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\bin\Debug\Google.GData.Extensions.dll
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\bin\Debug\Newtonsoft.Json.dll
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\obj\Debug\GetListContactGmail.Contacts.resources
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\obj\Debug\GetListContactGmail.exe
+D:\TUNG\C Sharp\WindowsFormApplication\GetListContactGmail\GetListContactGmail\obj\Debug\GetListContactGmail.pdb

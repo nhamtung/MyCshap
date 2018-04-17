@@ -1,0 +1,5 @@
+c:\users\chients\documents\visual studio 2013\Projects\Application\RobotManager\bin\Debug\RobotManager.dll
+c:\users\chients\documents\visual studio 2013\Projects\Application\RobotManager\bin\Debug\RobotManager.pdb
+c:\users\chients\documents\visual studio 2013\Projects\Application\RobotManager\obj\Debug\RobotManager.csprojResolveAssemblyReference.cache
+c:\users\chients\documents\visual studio 2013\Projects\Application\RobotManager\obj\Debug\RobotManager.dll
+c:\users\chients\documents\visual studio 2013\Projects\Application\RobotManager\obj\Debug\RobotManager.pdb

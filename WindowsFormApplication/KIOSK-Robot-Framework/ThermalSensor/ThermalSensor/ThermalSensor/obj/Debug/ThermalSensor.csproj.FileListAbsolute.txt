@@ -1,0 +1,15 @@
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\bin\Debug\ThermalSensor.exe.config
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\bin\Debug\ThermalSensor.exe
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\bin\Debug\ThermalSensor.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\obj\Debug\ThermalSensor.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\obj\Debug\ThermalSensor.Form1.resources
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\obj\Debug\ThermalSensor.Properties.Resources.resources
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\obj\Debug\ThermalSensor.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\obj\Debug\ThermalSensor.exe
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\obj\Debug\ThermalSensor.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\bin\Debug\RoboCommunicator.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\bin\Debug\RoboFW.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\bin\Debug\RoboCommon.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\bin\Debug\RoboCommunicator.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\bin\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\ThermalSensor\bin\Debug\RoboCommon.pdb

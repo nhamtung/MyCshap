@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\List\List\bin\Debug\List.exe.config
+D:\TUNG\C Sharp\CONSOLE\List\List\bin\Debug\List.exe
+D:\TUNG\C Sharp\CONSOLE\List\List\bin\Debug\List.pdb
+D:\TUNG\C Sharp\CONSOLE\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\List\List\obj\Debug\List.exe
+D:\TUNG\C Sharp\CONSOLE\List\List\obj\Debug\List.pdb

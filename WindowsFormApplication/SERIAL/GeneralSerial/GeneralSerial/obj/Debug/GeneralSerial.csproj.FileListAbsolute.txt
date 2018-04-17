@@ -1,0 +1,9 @@
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\GeneralSerial\GeneralSerial\bin\Debug\GeneralSerial.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\GeneralSerial\GeneralSerial\bin\Debug\GeneralSerial.exe
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\GeneralSerial\GeneralSerial\bin\Debug\GeneralSerial.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\GeneralSerial\GeneralSerial\obj\Debug\GeneralSerial.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\GeneralSerial\GeneralSerial\obj\Debug\GeneralSerial.Form1.resources
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\GeneralSerial\GeneralSerial\obj\Debug\GeneralSerial.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\GeneralSerial\GeneralSerial\obj\Debug\GeneralSerial.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\GeneralSerial\GeneralSerial\obj\Debug\GeneralSerial.exe
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\GeneralSerial\GeneralSerial\obj\Debug\GeneralSerial.pdb

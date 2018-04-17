@@ -1,0 +1,63 @@
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboFW.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboFW.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboCommon.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboCommunicator.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboCommon.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboCommunicator.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\obj\Debug\RoboFW.csprojResolveAssemblyReference.cache
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\obj\Debug\RoboFW.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\Anh Chương\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\obj\Debug\RoboFW.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\A.Chuong\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboFW.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\A.Chuong\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboFW.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\A.Chuong\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboCommon.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\A.Chuong\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboCommunicator.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\A.Chuong\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboCommon.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\A.Chuong\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\bin\Debug\RoboCommunicator.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\A.Chuong\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\obj\Debug\RoboFW.csprojResolveAssemblyReference.cache
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\A.Chuong\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\obj\Debug\RoboFW.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\A.Chuong\robot-fw-develop-808c9c519c4a43013ba9a45273eb1dee8fc84a9c\RoboFW\obj\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\robot-fw-develop-AChuong\RoboFW\bin\Debug\RoboFW.dll
+D:\TUNG\C Sharp\robot-fw-develop-AChuong\RoboFW\bin\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\robot-fw-develop-AChuong\RoboFW\bin\Debug\RoboCommon.dll
+D:\TUNG\C Sharp\robot-fw-develop-AChuong\RoboFW\bin\Debug\RoboCommunicator.dll
+D:\TUNG\C Sharp\robot-fw-develop-AChuong\RoboFW\bin\Debug\RoboCommon.pdb
+D:\TUNG\C Sharp\robot-fw-develop-AChuong\RoboFW\bin\Debug\RoboCommunicator.pdb
+D:\TUNG\C Sharp\robot-fw-develop-AChuong\RoboFW\obj\Debug\RoboFW.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\robot-fw-develop-AChuong\RoboFW\obj\Debug\RoboFW.dll
+D:\TUNG\C Sharp\robot-fw-develop-AChuong\RoboFW\obj\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DistanceSensor\RoboFW\obj\Debug\RoboFW.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DistanceSensor\RoboFW\obj\Debug\RoboFW.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DistanceSensor\RoboFW\obj\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DistanceSensor\RoboFW\bin\Debug\RoboFW.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DistanceSensor\RoboFW\bin\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DistanceSensor\RoboFW\bin\Debug\RoboCommon.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DistanceSensor\RoboFW\bin\Debug\RoboCommunicator.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DistanceSensor\RoboFW\bin\Debug\RoboCommon.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DistanceSensor\RoboFW\bin\Debug\RoboCommunicator.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DisrectionSensor\RoboFW\obj\Debug\RoboFW.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DisrectionSensor\RoboFW\obj\Debug\RoboFW.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DisrectionSensor\RoboFW\obj\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DisrectionSensor\RoboFW\bin\Debug\RoboFW.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DisrectionSensor\RoboFW\bin\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DisrectionSensor\RoboFW\bin\Debug\RoboCommunicator.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DisrectionSensor\RoboFW\bin\Debug\RoboCommon.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DisrectionSensor\RoboFW\bin\Debug\RoboCommunicator.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DisrectionSensor\RoboFW\bin\Debug\RoboCommon.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\RoboFW\bin\Debug\RoboFW.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\RoboFW\bin\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\RoboFW\bin\Debug\RoboCommon.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\RoboFW\bin\Debug\RoboCommunicator.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\RoboFW\bin\Debug\RoboCommon.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\RoboFW\bin\Debug\RoboCommunicator.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\RoboFW\obj\Debug\RoboFW.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\RoboFW\obj\Debug\RoboFW.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\DierctionSensor\DirectionSensor\RoboFW\obj\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\RoboFW\obj\Debug\RoboFW.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\RoboFW\obj\Debug\RoboFW.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\RoboFW\obj\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\RoboFW\bin\Debug\RoboFW.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\RoboFW\bin\Debug\RoboFW.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\RoboFW\bin\Debug\RoboCommon.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\RoboFW\bin\Debug\RoboCommunicator.dll
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\RoboFW\bin\Debug\RoboCommon.pdb
+D:\TUNG\C Sharp\KIOSK-Robot-Framework\ThermalSensor\ThermalSensor\RoboFW\bin\Debug\RoboCommunicator.pdb

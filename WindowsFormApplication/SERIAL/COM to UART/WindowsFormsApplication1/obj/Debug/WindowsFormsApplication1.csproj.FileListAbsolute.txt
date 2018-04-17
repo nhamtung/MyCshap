@@ -1,0 +1,33 @@
+c:\users\minhlq\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\minhlq\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\minhlq\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\minhlq\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\minhlq\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\minhlq\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\minhlq\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\minhlq\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\minhlq\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nham Tung\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Nham Tung\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Nham Tung\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\TUNG\C Sharp\COM to UART\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\TUNG\C Sharp\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\TUNG\C Sharp\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\TUNG\C Sharp\COM to UART\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\TUNG\C Sharp\COM to UART\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\TUNG\C Sharp\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\TUNG\C Sharp\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\TUNG\C Sharp\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\COM to UART\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\TUNG\C Sharp\WindowsFormApplication\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\COM to UART\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\TUNG\C Sharp\WindowsFormApplication\COM to UART\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\TUNG\C Sharp\WindowsFormApplication\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\COM to UART\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\TUNG\C Sharp\WindowsFormApplication\SERIAL\COM to UART\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

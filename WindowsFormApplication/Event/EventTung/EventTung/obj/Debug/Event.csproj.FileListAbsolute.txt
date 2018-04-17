@@ -1,0 +1,8 @@
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventTung\EventTung\obj\Debug\Event.Form1.resources
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventTung\EventTung\obj\Debug\EventTung.Properties.Resources.resources
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventTung\EventTung\obj\Debug\Event.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventTung\EventTung\obj\Debug\EventTung.exe
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventTung\EventTung\obj\Debug\EventTung.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventTung\EventTung\bin\Debug\EventTung.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventTung\EventTung\bin\Debug\EventTung.exe
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventTung\EventTung\bin\Debug\EventTung.pdb

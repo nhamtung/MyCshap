@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\InputData\InputData\bin\Debug\InputData.exe.config
+D:\TUNG\C Sharp\CONSOLE\InputData\InputData\bin\Debug\InputData.exe
+D:\TUNG\C Sharp\CONSOLE\InputData\InputData\bin\Debug\InputData.pdb
+D:\TUNG\C Sharp\CONSOLE\InputData\InputData\obj\Debug\InputData.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\InputData\InputData\obj\Debug\InputData.exe
+D:\TUNG\C Sharp\CONSOLE\InputData\InputData\obj\Debug\InputData.pdb

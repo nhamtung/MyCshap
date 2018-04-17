@@ -1,0 +1,15 @@
+﻿<Window x:Class="PlayFlashInWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:MyFlashUserControl;assembly=MyFlashUserControl"
+        Title="MainWindow"
+        Height="800" Width="800">
+    
+    <Grid >
+        <Canvas>
+            <controls:FlashPlayer Source="http://www.sothink.com/product/swfquicker/samples/specialEffect/Art_studio.swf"
+                      Width="700" Height="600" Canvas.Left="0" Canvas.Top="0" Panel.ZIndex="1" Background="Black"></controls:FlashPlayer>
+            <Button Name="btnClick" Width="100" Height="50" Panel.ZIndex="5" Click="btnClick_Click">Click</Button>
+        </Canvas>
+    </Grid>
+</Window>

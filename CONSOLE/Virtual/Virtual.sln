@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual", "Virtual\Virtual.csproj", "{9C43D4BE-A333-403B-81CA-96CDF97D762D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualAreaShape", "Virtual2\VirtualAreaShape.csproj", "{479BA819-E512-4A02-B19D-C754722067BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C43D4BE-A333-403B-81CA-96CDF97D762D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C43D4BE-A333-403B-81CA-96CDF97D762D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C43D4BE-A333-403B-81CA-96CDF97D762D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C43D4BE-A333-403B-81CA-96CDF97D762D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479BA819-E512-4A02-B19D-C754722067BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479BA819-E512-4A02-B19D-C754722067BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479BA819-E512-4A02-B19D-C754722067BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479BA819-E512-4A02-B19D-C754722067BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

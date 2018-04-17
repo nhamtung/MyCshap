@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Threadig.Task\Threadig.Task\bin\Debug\Threadig.Task.exe.config
+D:\TUNG\C Sharp\CONSOLE\Threadig.Task\Threadig.Task\bin\Debug\Threadig.Task.exe
+D:\TUNG\C Sharp\CONSOLE\Threadig.Task\Threadig.Task\bin\Debug\Threadig.Task.pdb
+D:\TUNG\C Sharp\CONSOLE\Threadig.Task\Threadig.Task\obj\Debug\Threadig.Task.exe
+D:\TUNG\C Sharp\CONSOLE\Threadig.Task\Threadig.Task\obj\Debug\Threadig.Task.pdb
+D:\TUNG\C Sharp\CONSOLE\Threadig.Task\Threadig.Task\obj\Debug\ThreadingTask.csprojResolveAssemblyReference.cache

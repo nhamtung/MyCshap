@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\String\String\bin\Debug\String.exe.config
+D:\TUNG\C Sharp\CONSOLE\String\String\bin\Debug\String.exe
+D:\TUNG\C Sharp\CONSOLE\String\String\bin\Debug\String.pdb
+D:\TUNG\C Sharp\CONSOLE\String\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\String\String\obj\Debug\String.exe
+D:\TUNG\C Sharp\CONSOLE\String\String\obj\Debug\String.pdb

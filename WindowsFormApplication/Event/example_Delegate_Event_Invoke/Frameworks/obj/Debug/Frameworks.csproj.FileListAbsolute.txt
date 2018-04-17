@@ -1,0 +1,14 @@
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Frameworks\bin\Debug\Frameworks.dll
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Frameworks\bin\Debug\Frameworks.pdb
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Frameworks\bin\Debug\Devices.dll
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Frameworks\bin\Debug\Devices.pdb
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Frameworks\obj\Debug\Frameworks.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Frameworks\obj\Debug\Frameworks.dll
+D:\TUNG\C Sharp\example_Delegate_Event_Invoke\Frameworks\obj\Debug\Frameworks.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Frameworks\bin\Debug\Frameworks.dll
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Frameworks\bin\Debug\Frameworks.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Frameworks\bin\Debug\Devices.dll
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Frameworks\bin\Debug\Devices.pdb
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Frameworks\obj\Debug\Frameworks.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Frameworks\obj\Debug\Frameworks.dll
+D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\Frameworks\obj\Debug\Frameworks.pdb

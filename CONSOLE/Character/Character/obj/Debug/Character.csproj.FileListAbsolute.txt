@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Character\Character\bin\Debug\Character.exe.config
+D:\TUNG\C Sharp\CONSOLE\Character\Character\bin\Debug\Character.exe
+D:\TUNG\C Sharp\CONSOLE\Character\Character\bin\Debug\Character.pdb
+D:\TUNG\C Sharp\CONSOLE\Character\Character\obj\Debug\Character.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Character\Character\obj\Debug\Character.exe
+D:\TUNG\C Sharp\CONSOLE\Character\Character\obj\Debug\Character.pdb

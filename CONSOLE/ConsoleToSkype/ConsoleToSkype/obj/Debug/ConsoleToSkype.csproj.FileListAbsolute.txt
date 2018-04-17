@@ -1,0 +1,9 @@
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\AUTOMATION_C#\ReceptionistApplication\ConsoleToSkype\ConsoleToSkype\bin\Debug\ConsoleToSkype.exe.config
+D:\TUNG\C Sharp\CONSOLE\ConsoleToSkype\ConsoleToSkype\bin\Debug\ConsoleToSkype.exe.config
+D:\TUNG\C Sharp\CONSOLE\ConsoleToSkype\ConsoleToSkype\bin\Debug\ConsoleToSkype.exe
+D:\TUNG\C Sharp\CONSOLE\ConsoleToSkype\ConsoleToSkype\bin\Debug\ConsoleToSkype.pdb
+D:\TUNG\C Sharp\CONSOLE\ConsoleToSkype\ConsoleToSkype\obj\Debug\ConsoleToSkype.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\ConsoleToSkype\ConsoleToSkype\obj\Debug\Interop.SKYPE4COMLib.dll
+D:\TUNG\C Sharp\CONSOLE\ConsoleToSkype\ConsoleToSkype\obj\Debug\ConsoleToSkype.csproj.ResolveComReference.cache
+D:\TUNG\C Sharp\CONSOLE\ConsoleToSkype\ConsoleToSkype\obj\Debug\ConsoleToSkype.exe
+D:\TUNG\C Sharp\CONSOLE\ConsoleToSkype\ConsoleToSkype\obj\Debug\ConsoleToSkype.pdb

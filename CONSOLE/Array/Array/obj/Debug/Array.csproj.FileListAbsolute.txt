@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Array\Array\bin\Debug\Array.exe.config
+D:\TUNG\C Sharp\CONSOLE\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Array\Array\bin\Debug\Array.exe
+D:\TUNG\C Sharp\CONSOLE\Array\Array\bin\Debug\Array.pdb
+D:\TUNG\C Sharp\CONSOLE\Array\Array\obj\Debug\Array.exe
+D:\TUNG\C Sharp\CONSOLE\Array\Array\obj\Debug\Array.pdb

@@ -1,0 +1,14 @@
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\bin\Debug\PlayVideoFile.exe.config
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\bin\Debug\PlayVideoFile.exe
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\bin\Debug\PlayVideoFile.pdb
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\bin\Debug\Interop.WMPLib.dll
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\bin\Debug\AxInterop.WMPLib.dll
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\obj\Debug\PlayVideoFile.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\obj\Debug\Interop.WMPLib.dll
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\obj\Debug\AxInterop.WMPLib.dll
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\obj\Debug\PlayVideoFile.csproj.ResolveComReference.cache
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\obj\Debug\PlayVideoFile.Form1.resources
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\obj\Debug\PlayVideoFile.Properties.Resources.resources
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\obj\Debug\PlayVideoFile.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\obj\Debug\PlayVideoFile.exe
+D:\TUNG\C Sharp\PlayVideo\PlayVideoFile\PlayVideoFile\obj\Debug\PlayVideoFile.pdb

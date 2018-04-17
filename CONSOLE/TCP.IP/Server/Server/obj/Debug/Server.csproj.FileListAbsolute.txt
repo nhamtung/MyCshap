@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\TCP.IP\Server\Server\bin\Debug\Server.exe.config
+D:\TUNG\C Sharp\CONSOLE\TCP.IP\Server\Server\bin\Debug\Server.exe
+D:\TUNG\C Sharp\CONSOLE\TCP.IP\Server\Server\bin\Debug\Server.pdb
+D:\TUNG\C Sharp\CONSOLE\TCP.IP\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\TCP.IP\Server\Server\obj\Debug\Server.exe
+D:\TUNG\C Sharp\CONSOLE\TCP.IP\Server\Server\obj\Debug\Server.pdb

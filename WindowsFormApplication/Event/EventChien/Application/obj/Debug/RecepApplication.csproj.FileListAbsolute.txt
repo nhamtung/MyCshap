@@ -1,0 +1,33 @@
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\bin\Debug\RecepApplication.exe.config
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\bin\Debug\RecepApplication.exe
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\bin\Debug\RecepApplication.pdb
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\bin\Debug\RobotManager.dll
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\bin\Debug\RobotManager.pdb
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\obj\Debug\ControlPanel.baml
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\obj\Debug\ControlPanel.g.cs
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\obj\Debug\App.g.cs
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\obj\Debug\RecepApplication_MarkupCompile.cache
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\obj\Debug\RecepApplication.g.resources
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\obj\Debug\RecepApplication.Properties.Resources.resources
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\obj\Debug\RecepApplication.csproj.GenerateResource.Cache
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\obj\Debug\RecepApplication.exe
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\obj\Debug\RecepApplication.pdb
+c:\users\chients\documents\visual studio 2013\Projects\Application\Application\obj\Debug\RecepApplication.csprojResolveAssemblyReference.cache
+C:\Users\Nham Tung\Desktop\Application\Application\bin\Debug\RecepApplication.exe.config
+C:\Users\Nham Tung\Desktop\Application\Application\obj\Debug\RecepApplication.exe
+C:\Users\Nham Tung\Desktop\Application\Application\obj\Debug\RecepApplication.pdb
+C:\Users\Nham Tung\Desktop\Application\Application\bin\Debug\RecepApplication.exe
+C:\Users\Nham Tung\Desktop\Application\Application\bin\Debug\RecepApplication.pdb
+C:\Users\Nham Tung\Desktop\Application\Application\bin\Debug\RobotManager.dll
+C:\Users\Nham Tung\Desktop\Application\Application\bin\Debug\RobotManager.pdb
+C:\Users\Nham Tung\Desktop\Application\Application\obj\Debug\RecepApplication.csprojResolveAssemblyReference.cache
+C:\Users\Nham Tung\Desktop\Application\Application\obj\Debug\ControlPanel.baml
+C:\Users\Nham Tung\Desktop\Application\Application\obj\Debug\ControlPanel.g.cs
+C:\Users\Nham Tung\Desktop\Application\Application\obj\Debug\App.g.cs
+C:\Users\Nham Tung\Desktop\Application\Application\obj\Debug\RecepApplication_MarkupCompile.cache
+C:\Users\Nham Tung\Desktop\Application\Application\obj\Debug\RecepApplication.g.resources
+C:\Users\Nham Tung\Desktop\Application\Application\obj\Debug\RecepApplication.Properties.Resources.resources
+C:\Users\Nham Tung\Desktop\Application\Application\obj\Debug\RecepApplication.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventChien\Application\bin\Debug\RecepApplication.exe.config
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventChien\Application\obj\Debug\RecepApplication.exe
+D:\TUNG\C Sharp\WindowsFormApplication\Event\EventChien\Application\obj\Debug\RecepApplication.pdb

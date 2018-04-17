@@ -1,0 +1,9 @@
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\Robot\bin\Debug\Robot.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\Robot\bin\Debug\Robot.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\Robot\obj\Debug\Robot.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\Robot\obj\Debug\Robot.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\Robot\bin\Debug\Robot.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\Robot\bin\Debug\Robot.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\Robot\obj\Debug\Robot.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\Robot\obj\Debug\Robot.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache

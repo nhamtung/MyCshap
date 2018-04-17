@@ -1,0 +1,11 @@
+C:\Users\Nham Tung\Downloads\EasyWebCam\WinFormCharpWebCam\bin\Debug\WinFormCharpWebCam.exe
+C:\Users\Nham Tung\Downloads\EasyWebCam\WinFormCharpWebCam\bin\Debug\WinFormCharpWebCam.pdb
+C:\Users\Nham Tung\Downloads\EasyWebCam\WinFormCharpWebCam\bin\Debug\WebCam_Capture.dll
+C:\Users\Nham Tung\Downloads\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.csprojResolveAssemblyReference.cache
+C:\Users\Nham Tung\Downloads\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.mainWinForm.resources
+C:\Users\Nham Tung\Downloads\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.Properties.Resources.resources
+C:\Users\Nham Tung\Downloads\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.csproj.GenerateResource.Cache
+C:\Users\Nham Tung\Downloads\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.exe
+C:\Users\Nham Tung\Downloads\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.pdb
+D:\TUNG\C Sharp\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.exe
+D:\TUNG\C Sharp\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.pdb

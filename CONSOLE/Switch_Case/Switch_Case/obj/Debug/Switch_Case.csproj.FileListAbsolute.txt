@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Switch_Case\Switch_Case\bin\Debug\Switch_Case.exe.config
+D:\TUNG\C Sharp\CONSOLE\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Switch_Case\Switch_Case\bin\Debug\Switch_Case.exe
+D:\TUNG\C Sharp\CONSOLE\Switch_Case\Switch_Case\bin\Debug\Switch_Case.pdb
+D:\TUNG\C Sharp\CONSOLE\Switch_Case\Switch_Case\obj\Debug\Switch_Case.exe
+D:\TUNG\C Sharp\CONSOLE\Switch_Case\Switch_Case\obj\Debug\Switch_Case.pdb

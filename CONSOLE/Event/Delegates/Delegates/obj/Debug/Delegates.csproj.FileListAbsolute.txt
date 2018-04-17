@@ -1,0 +1,9 @@
+D:\TUNG\C Sharp\CONSOLE\Delegates\Delegates\bin\Debug\Delegates.exe.config
+D:\TUNG\C Sharp\CONSOLE\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\TUNG\C Sharp\CONSOLE\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\TUNG\C Sharp\CONSOLE\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\TUNG\C Sharp\CONSOLE\Delegates\Delegates\obj\Debug\Delegates.pdb
+D:\TUNG\C Sharp\CONSOLE\Event\Delegates\Delegates\bin\Debug\Delegates.exe.config
+D:\TUNG\C Sharp\CONSOLE\Event\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\TUNG\C Sharp\CONSOLE\Event\Delegates\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,55 @@
+﻿<Window x:Class="TabControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TabControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ScrollViewer HorizontalScrollBarVisibility ="Auto" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <Border Background="#99FFFFFF" BorderBrush="#CCCCFF" BorderThickness="2"
+                        HorizontalAlignment="Left" Padding="20" Margin="20,10,0,0" Width="400">
+                    <TabControl Name="Tabs1" TabStripPlacement="Top" Background="LightGray" BorderBrush="Blue" Margin="10,10,0,5">
+                        <TabItem Header="Name" IsSelected="True" Background="Gray">
+                            <TextBlock Height="150" Width="200" Margin="0,10,120,0">
+                                <Bold>My full name is Nham Van Tung</Bold>
+                            </TextBlock>
+                        </TabItem>
+                        <TabItem Header="Image" Background="Gray" HorizontalAlignment="Left" Width="49">
+                            <!--<Image Source="imageName.gif" Height="150" Width="200"/>-->
+                        </TabItem>
+                        <TabItem Header="Hotels" Background="Gray">
+                            <!--<Image Source="imageName.gif" Height="150" Width="200"/>-->
+                        </TabItem>
+                        <TabItem Header="Contact Us" Background="Gray" >
+                            <Grid Height="150" Width="200">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+
+                                <Label HorizontalAlignment="Right" Margin="0,12,0,0" Width="42">
+                                    Name:
+                                </Label>
+                                <Label Grid.Row="1" HorizontalAlignment="Right" Margin="0,14,0,0" Width="40">
+                                    Email:
+                                </Label>
+                                <TextBox Name="Name" Grid.Column="1" Margin="0,0,0,10"/>
+                                <TextBox Name="Email" Grid.Column="1" Grid.Row="1" Margin="0,10,0,0"/>
+                                <Button x:Name ="CoolTabButton" Grid.Column="1" Grid.Row="2" Width="75" HorizontalAlignment="Left" Content="OK" Margin="0,15,0,12" Click="CoolTabButton_Click_1"></Button>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Border>
+            </StackPanel>
+        </ScrollViewer>
+   </Grid>
+</Window>

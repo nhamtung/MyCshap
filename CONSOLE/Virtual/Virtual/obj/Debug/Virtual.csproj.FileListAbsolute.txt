@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual\bin\Debug\Virtual.exe.config
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual\bin\Debug\Virtual.exe
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual\bin\Debug\Virtual.pdb
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual\obj\Debug\Virtual.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual\obj\Debug\Virtual.exe
+D:\TUNG\C Sharp\CONSOLE\Virtual\Virtual\obj\Debug\Virtual.pdb

@@ -1,0 +1,49 @@
+﻿<Window x:Class="DockPanelsWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DockPanelsWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+
+    <!--<DockPanel LastChildFill="True">
+        <StackPanel Background="LightGray" DockPanel.Dock="Bottom" Orientation="Horizontal">
+                <TextBlock>Status: Connected</TextBlock>
+            </StackPanel>
+            <Border BorderBrush="Black" DockPanel.Dock="Left" BorderThickness="1">
+                <StackPanel MinWidth="160">
+                    <TextBlock FontSize="16" TextAlignment="Center">Menu</TextBlock>
+                    <TextBlock Margin=" 5,5,5,0" FontSize="12">Books</TextBlock>
+                    <TextBlock Margin=" 5,5,5,0" FontSize="12">Moves, Music and Games</TextBlock>
+                    <TextBlock Margin=" 5,5,5,0" FontSize="12">Computers and Office</TextBlock>
+                    <TextBlock Margin=" 5,5,5,0" FontSize="12">Electronics</TextBlock>
+                    <TextBlock Margin=" 5,5,5,0" FontSize="12">Home and Garden</TextBlock>
+                    <TextBlock Margin=" 5,5,5,0" FontSize="12">Grocery, Health and Safety</TextBlock>
+                    <TextBlock Margin=" 5,5,5,0" FontSize="12">Toys, Kids and Baby</TextBlock>
+                    <TextBlock Margin=" 5,5,5,0" FontSize="12">Sports and Outdoors</TextBlock>
+                    <TextBlock Margin=" 5,5,5,0" FontSize="12">Tools, Auto and Industrial</TextBlock>
+                </StackPanel>
+            </Border>
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+            <TextBlock Margin="5" FontSize="16">Search:</TextBlock>
+            <TextBox Margin="5" FontSize="16" HorizontalAlignment="Stretch" MinWidth="270"></TextBox>
+        </StackPanel>
+    </DockPanel>-->
+    
+    <!--<StackPanel>-->
+    <DockPanel LastChildFill="False">
+        <StackPanel DockPanel.Dock="Bottom" Background="Red" Margin="4">
+            <TextBlock Height="30" Foreground="White">Bottom Docked</TextBlock>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Left" MinWidth="160" Background="Blue" Margin="4">
+            <TextBlock Foreground="White" >Left Docked</TextBlock>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Top" Background="Yellow" Margin=" 4">
+            <TextBlock Height="30" >Top Docked</TextBlock>
+        </StackPanel>
+        <TextBlock Background="Green"> Testing</TextBlock>
+    </DockPanel>
+    
+    <!--</StackPanel>-->
+</Window>

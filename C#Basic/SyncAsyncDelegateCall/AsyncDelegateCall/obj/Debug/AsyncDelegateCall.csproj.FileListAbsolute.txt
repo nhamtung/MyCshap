@@ -1,0 +1,6 @@
+D:\NTQ_SOLUTION\C#Basic\SyncAsyncDelegateCall\AsyncDelegateCall\bin\Debug\AsyncDelegateCall.exe.config
+D:\NTQ_SOLUTION\C#Basic\SyncAsyncDelegateCall\AsyncDelegateCall\bin\Debug\AsyncDelegateCall.exe
+D:\NTQ_SOLUTION\C#Basic\SyncAsyncDelegateCall\AsyncDelegateCall\bin\Debug\AsyncDelegateCall.pdb
+D:\NTQ_SOLUTION\C#Basic\SyncAsyncDelegateCall\AsyncDelegateCall\obj\Debug\AsyncDelegateCall.exe
+D:\NTQ_SOLUTION\C#Basic\SyncAsyncDelegateCall\AsyncDelegateCall\obj\Debug\AsyncDelegateCall.pdb
+D:\NTQ_SOLUTION\C#Basic\SyncAsyncDelegateCall\AsyncDelegateCall\obj\Debug\AsyncDelegateCall.csprojResolveAssemblyReference.cache

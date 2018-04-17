@@ -1,0 +1,31 @@
+D:\TUNG\C Sharp\MOVING\MOVING\bin\Debug\MOVING.exe.config
+D:\TUNG\C Sharp\MOVING\MOVING\bin\Debug\MOVING.exe
+D:\TUNG\C Sharp\MOVING\MOVING\bin\Debug\MOVING.pdb
+D:\TUNG\C Sharp\MOVING\MOVING\obj\Debug\MOVING.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\MOVING\MOVING\obj\Debug\MOVING.Form1.resources
+D:\TUNG\C Sharp\MOVING\MOVING\obj\Debug\MOVING.Properties.Resources.resources
+D:\TUNG\C Sharp\MOVING\MOVING\obj\Debug\MOVING.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\MOVING\MOVING\obj\Debug\MOVING.exe
+D:\TUNG\C Sharp\MOVING\MOVING\obj\Debug\MOVING.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\bin\Debug\MOVING.exe.config
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\bin\Debug\MOVING.exe
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\bin\Debug\MOVING.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\bin\Debug\Robot.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\bin\Debug\Robot.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\obj\Debug\MOVING.csprojResolveAssemblyReference.cache
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\obj\Debug\MOVING.Form1.resources
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\obj\Debug\MOVING.Properties.Resources.resources
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\obj\Debug\MOVING.csproj.GenerateResource.Cache
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\obj\Debug\MOVING.exe
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING\MOVING\obj\Debug\MOVING.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\bin\Debug\MOVING.exe.config
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\obj\Debug\MOVING.exe
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\obj\Debug\MOVING.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\bin\Debug\MOVING.exe
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\bin\Debug\MOVING.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\bin\Debug\Robot.dll
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\bin\Debug\Robot.pdb
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\obj\Debug\MOVING.csprojResolveAssemblyReference.cache
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\obj\Debug\MOVING.Form1.resources
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\obj\Debug\MOVING.Properties.Resources.resources
+D:\NTQ SOLUTION\KIOSK ROBOT\lap trinh\C#\MOVING 1\MOVING\obj\Debug\MOVING.csproj.GenerateResource.Cache

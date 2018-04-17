@@ -1,0 +1,9 @@
+D:\TUNG\C Sharp\CONSOLE\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\TUNG\C Sharp\CONSOLE\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\TUNG\C Sharp\CONSOLE\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\TUNG\C Sharp\CONSOLE\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\TUNG\C Sharp\CONSOLE\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+D:\TUNG\C Sharp\CONSOLE\TinhKeThua-Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\TUNG\C Sharp\CONSOLE\TinhKeThua-Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\TUNG\C Sharp\CONSOLE\TinhKeThua-Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\TinhKeThua-Inheritance\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+D:\TUNG\C Sharp\CONSOLE\TinhKeThua-Inheritance\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+D:\TUNG\C Sharp\CONSOLE\TinhKeThua-Inheritance\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+D:\TUNG\C Sharp\CONSOLE\TinhKeThua-Inheritance\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\TinhKeThua-Inheritance\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+D:\TUNG\C Sharp\CONSOLE\TinhKeThua-Inheritance\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.pdb

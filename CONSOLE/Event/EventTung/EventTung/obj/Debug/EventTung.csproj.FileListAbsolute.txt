@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Event\EventTung\EventTung\bin\Debug\EventTung.exe.config
+D:\TUNG\C Sharp\CONSOLE\Event\EventTung\EventTung\bin\Debug\EventTung.exe
+D:\TUNG\C Sharp\CONSOLE\Event\EventTung\EventTung\bin\Debug\EventTung.pdb
+D:\TUNG\C Sharp\CONSOLE\Event\EventTung\EventTung\obj\Debug\EventTung.exe
+D:\TUNG\C Sharp\CONSOLE\Event\EventTung\EventTung\obj\Debug\EventTung.pdb
+D:\TUNG\C Sharp\CONSOLE\Event\EventTung\EventTung\obj\Debug\EventTung.csprojResolveAssemblyReference.cache

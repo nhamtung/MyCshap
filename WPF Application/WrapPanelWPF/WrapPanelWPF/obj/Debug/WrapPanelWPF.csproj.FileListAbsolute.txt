@@ -1,0 +1,14 @@
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\bin\Debug\WrapPanelWPF.exe.config
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\bin\Debug\WrapPanelWPF.exe
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\bin\Debug\WrapPanelWPF.pdb
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\WrapPanelWPF.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\MainWindow.g.cs
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\App.g.cs
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\WrapPanelWPF_MarkupCompile.cache
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\WrapPanelWPF_MarkupCompile.lref
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\MainWindow.baml
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\WrapPanelWPF.g.resources
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\WrapPanelWPF.Properties.Resources.resources
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\WrapPanelWPF.csproj.GenerateResource.Cache
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\WrapPanelWPF.exe
+D:\TUNG\C Sharp\WPF Application\WrapPanelWPF\WrapPanelWPF\obj\Debug\WrapPanelWPF.pdb

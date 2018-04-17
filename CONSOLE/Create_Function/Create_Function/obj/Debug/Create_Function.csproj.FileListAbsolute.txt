@@ -1,0 +1,6 @@
+D:\TUNG\C Sharp\CONSOLE\Create_Function\Create_Function\bin\Debug\Create_Function.exe.config
+D:\TUNG\C Sharp\CONSOLE\Create_Function\Create_Function\bin\Debug\Create_Function.exe
+D:\TUNG\C Sharp\CONSOLE\Create_Function\Create_Function\bin\Debug\Create_Function.pdb
+D:\TUNG\C Sharp\CONSOLE\Create_Function\Create_Function\obj\Debug\Create_Function.csprojResolveAssemblyReference.cache
+D:\TUNG\C Sharp\CONSOLE\Create_Function\Create_Function\obj\Debug\Create_Function.exe
+D:\TUNG\C Sharp\CONSOLE\Create_Function\Create_Function\obj\Debug\Create_Function.pdb
