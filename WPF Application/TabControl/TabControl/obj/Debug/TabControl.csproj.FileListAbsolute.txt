@@ -12,3 +12,6 @@ D:\TUNG\C Sharp\WPF Application\TabControl\TabControl\obj\Debug\TabControl.Prope
 D:\TUNG\C Sharp\WPF Application\TabControl\TabControl\obj\Debug\TabControl.csproj.GenerateResource.Cache
 D:\TUNG\C Sharp\WPF Application\TabControl\TabControl\obj\Debug\TabControl.exe
 D:\TUNG\C Sharp\WPF Application\TabControl\TabControl\obj\Debug\TabControl.pdb
+D:\TUNG\MyCshap\WPF Application\TabControl\TabControl\bin\Debug\TabControl.exe.config
+D:\TUNG\MyCshap\WPF Application\TabControl\TabControl\obj\Debug\TabControl.exe
+D:\TUNG\MyCshap\WPF Application\TabControl\TabControl\obj\Debug\TabControl.pdb
