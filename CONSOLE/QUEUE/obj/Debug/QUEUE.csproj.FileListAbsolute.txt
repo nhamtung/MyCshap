@@ -4,3 +4,6 @@ D:\TUNG\C Sharp\CONSOLE\QUEUE\bin\Debug\QUEUE.pdb
 D:\TUNG\C Sharp\CONSOLE\QUEUE\obj\Debug\QUEUE.csprojResolveAssemblyReference.cache
 D:\TUNG\C Sharp\CONSOLE\QUEUE\obj\Debug\QUEUE.exe
 D:\TUNG\C Sharp\CONSOLE\QUEUE\obj\Debug\QUEUE.pdb
+D:\TUNG\MyCshap\CONSOLE\QUEUE\bin\Debug\QUEUE.exe.config
+D:\TUNG\MyCshap\CONSOLE\QUEUE\obj\Debug\QUEUE.exe
+D:\TUNG\MyCshap\CONSOLE\QUEUE\obj\Debug\QUEUE.pdb
