@@ -9,3 +9,6 @@ D:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\
 E:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\bin\Debug\TestInvoke.exe.config
 E:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.exe
 E:\TUNG\C Sharp\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.pdb
+D:\TUNG\MyCshap\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\bin\Debug\TestInvoke.exe.config
+D:\TUNG\MyCshap\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.exe
+D:\TUNG\MyCshap\WindowsFormApplication\example_Delegate_Event_Invoke\TestInvoke\obj\Debug\TestInvoke.pdb
