@@ -6,3 +6,5 @@ D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.P
 D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.Cache
 D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.exe
 D:\TUNG\C Sharp\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+D:\TUNG\MyCshap\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+D:\TUNG\MyCshap\WindowsFormApplication\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
