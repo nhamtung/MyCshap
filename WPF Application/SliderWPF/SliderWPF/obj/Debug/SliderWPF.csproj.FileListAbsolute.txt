@@ -13,3 +13,19 @@ D:\TUNG\C Sharp\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.Properti
 D:\TUNG\C Sharp\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.csproj.GenerateResource.Cache
 D:\TUNG\C Sharp\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.exe
 D:\TUNG\C Sharp\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.pdb
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\bin\Debug\SliderWPF.exe.config
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\bin\Debug\SliderWPF.exe
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\bin\Debug\SliderWPF.pdb
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.csprojAssemblyReference.cache
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\MainWindow.g.cs
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\App.g.cs
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF_MarkupCompile.cache
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF_MarkupCompile.lref
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\App.baml
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\MainWindow.baml
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.g.resources
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.Properties.Resources.resources
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.csproj.GenerateResource.cache
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.csproj.CoreCompileInputs.cache
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.exe
+D:\TUNG\MyCshap\WPF Application\SliderWPF\SliderWPF\obj\Debug\SliderWPF.pdb
