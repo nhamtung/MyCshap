@@ -15,26 +15,26 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_0CA66B44F4D54366A88D5E8E0BFB22A6"
+        "MsmKey" = "8:_7873C4F009124B1885756698A0C63F2C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_2899FD519732411286BF0B46D9419F4C"
+        "MsmKey" = "8:_952140BCDB9D4EEE9258A05D9620D62D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_658911A5A556477E82B67D39B121BE43"
+        "MsmKey" = "8:_D6ACCB7B015044BF9AE6B6AF438EA1FF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0CA66B44F4D54366A88D5E8E0BFB22A6"
+        "OwnerKey" = "8:_D6ACCB7B015044BF9AE6B6AF438EA1FF"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -101,62 +101,6 @@
     {
         "CustomAction"
         {
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_12771F9AA3194F209DB55B8E4CDF6E6D"
-            {
-            "Name" = "8:Slider.exe"
-            "Condition" = "8:"
-            "Object" = "8:_0CA66B44F4D54366A88D5E8E0BFB22A6"
-            "FileType" = "3:2"
-            "InstallAction" = "3:2"
-            "Arguments" = "8:"
-            "EntryPoint" = "8:"
-            "Sequence" = "3:1"
-            "Identifier" = "8:_FF623B1B_87C5_474B_8407_DB65C37E2309"
-            "InstallerClass" = "11:TRUE"
-            "CustomActionData" = "8:"
-            }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_28AAE7E6A9514B63B08D4B4F44F6E40F"
-            {
-            "Name" = "8:Slider.exe"
-            "Condition" = "8:"
-            "Object" = "8:_0CA66B44F4D54366A88D5E8E0BFB22A6"
-            "FileType" = "3:2"
-            "InstallAction" = "3:3"
-            "Arguments" = "8:"
-            "EntryPoint" = "8:"
-            "Sequence" = "3:1"
-            "Identifier" = "8:_DCC38802_915F_4AB6_BC8C_D25EFEB0AF7E"
-            "InstallerClass" = "11:TRUE"
-            "CustomActionData" = "8:"
-            }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_2EF89E8C3B804D1F95F5931BB4A7D67B"
-            {
-            "Name" = "8:Slider.exe"
-            "Condition" = "8:"
-            "Object" = "8:_0CA66B44F4D54366A88D5E8E0BFB22A6"
-            "FileType" = "3:2"
-            "InstallAction" = "3:4"
-            "Arguments" = "8:"
-            "EntryPoint" = "8:"
-            "Sequence" = "3:1"
-            "Identifier" = "8:_323FEED8_5235_4B5C_81DA_F63E1CE6CD3E"
-            "InstallerClass" = "11:TRUE"
-            "CustomActionData" = "8:"
-            }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_66619505FD5F47BCA8610008FA7E877F"
-            {
-            "Name" = "8:Slider.exe"
-            "Condition" = "8:"
-            "Object" = "8:_0CA66B44F4D54366A88D5E8E0BFB22A6"
-            "FileType" = "3:2"
-            "InstallAction" = "3:1"
-            "Arguments" = "8:"
-            "EntryPoint" = "8:"
-            "Sequence" = "3:1"
-            "Identifier" = "8:_CD4D910D_D9A7_4C1C_B3CB_CCD9449A6BDA"
-            "InstallerClass" = "11:TRUE"
-            "CustomActionData" = "8:"
-            }
         }
         "DefaultFeature"
         {
@@ -180,38 +124,7 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0CA66B44F4D54366A88D5E8E0BFB22A6"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Slider, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_0CA66B44F4D54366A88D5E8E0BFB22A6"
-                    {
-                    "Name" = "8:Slider.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Slider\\bin\\Debug\\Slider.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_2B48989BB4EE45C595D47880C7064107"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2899FD519732411286BF0B46D9419F4C"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7873C4F009124B1885756698A0C63F2C"
             {
             "SourcePath" = "8:Slider\\bin\\Debug\\Slider.pdb"
             "TargetName" = "8:Slider.pdb"
@@ -231,10 +144,41 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_658911A5A556477E82B67D39B121BE43"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_952140BCDB9D4EEE9258A05D9620D62D"
             {
             "SourcePath" = "8:Slider\\bin\\Debug\\Slider.exe.config"
             "TargetName" = "8:Slider.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_2B48989BB4EE45C595D47880C7064107"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D6ACCB7B015044BF9AE6B6AF438EA1FF"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Slider, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D6ACCB7B015044BF9AE6B6AF438EA1FF"
+                    {
+                    "Name" = "8:Slider.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Slider\\bin\\Debug\\Slider.exe"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_2B48989BB4EE45C595D47880C7064107"
             "Condition" = "8:"
@@ -308,7 +252,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:ProjectInstaller"
         "ProductCode" = "8:{EC7E0CF4-C6CC-4145-86C6-AB1AEAC2A06B}"
-        "PackageCode" = "8:{6F1CD71F-B195-4A00-AB86-38B31AFBD772}"
+        "PackageCode" = "8:{2CB752A2-C950-4CD2-8113-A43AEF558049}"
         "UpgradeCode" = "8:{E48381C6-2128-4062-988F-3CA9384C8D9D}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -316,12 +260,12 @@
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
         "ProductVersion" = "8:1.0.0"
-        "Manufacturer" = "8:Default Company Name"
+        "Manufacturer" = "8:TungNV"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
         "Title" = "8:ProjectInstaller"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:Default Company Name"
+        "ARPCONTACT" = "8:nhamtung"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
@@ -428,15 +372,29 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_94C2739F73B44E78AF3A20A6503165D7"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_27A00B3DB6D14E9FB1BE37D33999F9C9"
             {
-            "Name" = "8:Shortcut to Slider.exe"
+            "Name" = "8:Slider.exe"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_0CA66B44F4D54366A88D5E8E0BFB22A6"
+            "Target" = "8:_D6ACCB7B015044BF9AE6B6AF438EA1FF"
+            "Folder" = "8:_73CF9D085FC9452F991ED814B20C0DFA"
+            "WorkingFolder" = "8:_2B48989BB4EE45C595D47880C7064107"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_81D163BFCDC246228A05CA9BB8E5DC35"
+            {
+            "Name" = "8:Slider.exe"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_D6ACCB7B015044BF9AE6B6AF438EA1FF"
             "Folder" = "8:_6F6CAC5869FC4BBC8B441B16566E365F"
             "WorkingFolder" = "8:_2B48989BB4EE45C595D47880C7064107"
             "Icon" = "8:"
