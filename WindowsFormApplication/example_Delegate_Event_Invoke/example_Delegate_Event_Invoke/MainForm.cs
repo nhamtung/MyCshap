@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Windows.Forms;
-using Devices;
-using Frameworks;
 using static Devices.Sensor;
 using Frameworks;
 using System.Collections.Generic;
@@ -39,8 +37,7 @@ namespace example_Delegate_Event_Invoke
         {
             if(this.IsDisposed)
             {
-                return;
-            }
+                return; }
             Invoke((MethodInvoker)delegate
             {
                 try
@@ -75,7 +72,7 @@ namespace example_Delegate_Event_Invoke
             {
                 frameworks.RemoveSensor(id);
             }
-            frameworks.SwitchSensor((Sensor.OnSensorChanged)OnSensorChanged);
+            frameworks.SwitchSensor((OnSensorChanged)OnSensorChanged);
             foreach(var sensor in frameworks.listSensor)
             {
                 sensor.changeHandler += OnSensorChanged;
