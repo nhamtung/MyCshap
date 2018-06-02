@@ -1,6 +1,8 @@
 ﻿using System.Windows.Forms;
 using TwinCAT.Ads;
 using System.IO;
+using System;
+using System.Diagnostics;
 /// <summary>
 /// http://tbe.vn/chia-se-kien-thuc/9604-ket-noi-twincat-voi-visual-studio-net-visual-basic.html
 /// </summary>
@@ -26,13 +28,24 @@ namespace ConnectPlc
         /// </summary>
         private void Connect()
         {
-            tcAds = new TcAdsClient();
+            if(tcAds == null)
+                tcAds = new TcAdsClient();
             tcAds.Connect("1.2.3.4.1.1", 801);
         }
 
         private void Disconnect()
         {
-            tcAds.Dispose();
+            try
+            {
+                if(tcAds != null)
+                { 
+                    tcAds.Dispose();
+                    tcAds = null;
+                }
+            }
+            catch(Exception ex) {
+                Debug.WriteLine("Disconnect");
+            }
         }
 
         /// <summary>

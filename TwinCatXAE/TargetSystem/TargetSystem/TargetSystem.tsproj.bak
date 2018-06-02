@@ -9,21 +9,5 @@
 				</Target>
 			</Licenses>
 		</System>
-		<Io>
-			<Device DevType="111" DevFlags="#x0003" AmsPort="28673" AmsNetId="169.254.186.56.2.1" RemoteName="Device 1 (EtherCAT)" Id="1">
-				<Name>Device 1 (EtherCAT)</Name>
-				<AddressInfo>
-					<Pnp>
-						<DeviceDesc/>
-						<DeviceName/>
-						<DeviceData>000000000000</DeviceData>
-					</Pnp>
-				</AddressInfo>
-				<Image Id="1" AddrType="9" ImageType="3">
-					<Name>Image</Name>
-				</Image>
-				<EtherCAT/>
-			</Device>
-		</Io>
 	</Project>
 </TcSmProject>
