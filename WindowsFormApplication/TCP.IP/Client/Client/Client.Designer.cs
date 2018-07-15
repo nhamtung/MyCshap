@@ -35,13 +35,13 @@
             this.label2 = new System.Windows.Forms.Label();
             this.labState = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnDisconnect = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.tbDataSend = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.tbDataReceive = new System.Windows.Forms.TextBox();
-            this.tbDataSend = new System.Windows.Forms.TextBox();
-            this.btnDisconnect = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -81,7 +81,7 @@
             this.tbAddress.Name = "tbAddress";
             this.tbAddress.Size = new System.Drawing.Size(146, 20);
             this.tbAddress.TabIndex = 8;
-            this.tbAddress.Text = "192.168.7.244";
+            this.tbAddress.Text = "192.168.5.102";
             // 
             // label2
             // 
@@ -115,7 +115,17 @@
             this.groupBox1.Size = new System.Drawing.Size(227, 159);
             this.groupBox1.TabIndex = 9;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Connect Socket";
+            this.groupBox1.Text = "Client connect";
+            // 
+            // btnDisconnect
+            // 
+            this.btnDisconnect.Location = new System.Drawing.Point(17, 120);
+            this.btnDisconnect.Name = "btnDisconnect";
+            this.btnDisconnect.Size = new System.Drawing.Size(84, 30);
+            this.btnDisconnect.TabIndex = 0;
+            this.btnDisconnect.Text = "Disconnect";
+            this.btnDisconnect.UseVisualStyleBackColor = true;
+            this.btnDisconnect.Click += new System.EventHandler(this.btnDisconnect_Click);
             // 
             // label1
             // 
@@ -137,6 +147,14 @@
             this.groupBox2.TabIndex = 10;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Send Data";
+            // 
+            // tbDataSend
+            // 
+            this.tbDataSend.Location = new System.Drawing.Point(75, 28);
+            this.tbDataSend.Name = "tbDataSend";
+            this.tbDataSend.Size = new System.Drawing.Size(136, 20);
+            this.tbDataSend.TabIndex = 7;
+            this.tbDataSend.Text = "Send data from client";
             // 
             // label3
             // 
@@ -163,24 +181,6 @@
             this.tbDataReceive.Name = "tbDataReceive";
             this.tbDataReceive.Size = new System.Drawing.Size(194, 20);
             this.tbDataReceive.TabIndex = 0;
-            // 
-            // tbDataSend
-            // 
-            this.tbDataSend.Location = new System.Drawing.Point(75, 28);
-            this.tbDataSend.Name = "tbDataSend";
-            this.tbDataSend.Size = new System.Drawing.Size(136, 20);
-            this.tbDataSend.TabIndex = 7;
-            this.tbDataSend.Text = "Send data from client";
-            // 
-            // btnDisconnect
-            // 
-            this.btnDisconnect.Location = new System.Drawing.Point(17, 120);
-            this.btnDisconnect.Name = "btnDisconnect";
-            this.btnDisconnect.Size = new System.Drawing.Size(84, 30);
-            this.btnDisconnect.TabIndex = 0;
-            this.btnDisconnect.Text = "Disconnect";
-            this.btnDisconnect.UseVisualStyleBackColor = true;
-            this.btnDisconnect.Click += new System.EventHandler(this.btnDisconnect_Click);
             // 
             // Client
             // 

@@ -72,7 +72,7 @@
             this.tbAddress.Name = "tbAddress";
             this.tbAddress.Size = new System.Drawing.Size(154, 20);
             this.tbAddress.TabIndex = 4;
-            this.tbAddress.Text = "192.168.7.244";
+            this.tbAddress.Text = "192.168.5.102";
             // 
             // label2
             // 
@@ -122,7 +122,7 @@
             this.groupBox2.Size = new System.Drawing.Size(227, 155);
             this.groupBox2.TabIndex = 6;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "groupBox2";
+            this.groupBox2.Text = "Server connect";
             // 
             // btnDisconnect
             // 
