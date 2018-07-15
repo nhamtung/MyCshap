@@ -26,8 +26,11 @@ namespace Server
         {
             try
             {
-                IPAddress ipAd = IPAddress.Parse("192.168.6.228"); //use local m/c IP address, and use the same in the client
-                TcpListener myList = new TcpListener(ipAd, 8001); // Initializes the Listener 
+                string address = tbAddress.Text;
+                int port = Int32.Parse(tbPort.Text);
+
+                IPAddress ipAd = IPAddress.Parse(address); //use local m/c IP address, and use the same in the client
+                TcpListener myList = new TcpListener(ipAd, port); // Initializes the Listener 
                 myList.Start();  // Start Listeneting at the specified port 
 
                 socket = myList.AcceptSocket();
@@ -39,8 +42,7 @@ namespace Server
                 Thread registerReceiveData = new Thread(ReceiveData);
                 registerReceiveData.Start();
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex){
                 MessageBox.Show("Server: Error..... " + ex.StackTrace);
             }
         }
