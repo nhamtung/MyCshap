@@ -81,7 +81,7 @@
             this.tbAddress.Name = "tbAddress";
             this.tbAddress.Size = new System.Drawing.Size(146, 20);
             this.tbAddress.TabIndex = 8;
-            this.tbAddress.Text = "192.168.5.102";
+            this.tbAddress.Text = "192.168.7.112";
             // 
             // label2
             // 
