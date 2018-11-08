@@ -8,3 +8,15 @@ D:\TUNG\C Sharp\camera\camera\obj\Debug\camera.Properties.Resources.resources
 D:\TUNG\C Sharp\camera\camera\obj\Debug\camera.csproj.GenerateResource.Cache
 D:\TUNG\C Sharp\camera\camera\obj\Debug\camera.exe
 D:\TUNG\C Sharp\camera\camera\obj\Debug\camera.pdb
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\bin\Debug\camera.exe.config
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\bin\Debug\camera.exe
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\bin\Debug\camera.pdb
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\bin\Debug\WebCam_Capture.dll
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\obj\Debug\camera.csprojAssemblyReference.cache
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\obj\Debug\camera.Form1.resources
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\obj\Debug\camera.Properties.Resources.resources
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\obj\Debug\camera.csproj.GenerateResource.cache
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\obj\Debug\camera.csproj.CoreCompileInputs.cache
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\obj\Debug\camera.csproj.CopyComplete
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\obj\Debug\camera.exe
+D:\TUNG\MyCshap\WindowsFormApplication\camera\camera\obj\Debug\camera.pdb
