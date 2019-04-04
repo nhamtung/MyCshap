@@ -11,7 +11,6 @@ D:\MyFolder\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\C
 D:\MyFolder\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.pdb
 D:\MyFolder\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\bin\Debug\Client.exe
 D:\MyFolder\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\bin\Debug\Client.pdb
-D:\MyFolder\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 D:\MyFolder\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.Client.resources
 D:\MyFolder\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.Properties.Resources.resources
 D:\MyFolder\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
@@ -25,3 +24,5 @@ D:\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.csp
 D:\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 D:\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.exe
 D:\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.pdb
+D:\MyFolder\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\MyFolder\TUNG\MyCshap\WindowsFormApplication\TCP.IP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
