@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonStylesAndTemplates", "ButtonStylesAndTemplates\ButtonStylesAndTemplates.csproj", "{A5D09504-56FD-4B80-A3C2-BD076B6DDC54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D09504-56FD-4B80-A3C2-BD076B6DDC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D09504-56FD-4B80-A3C2-BD076B6DDC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D09504-56FD-4B80-A3C2-BD076B6DDC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D09504-56FD-4B80-A3C2-BD076B6DDC54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62A08419-33F4-411B-BC70-A764E061B63B}
+	EndGlobalSection
+EndGlobal

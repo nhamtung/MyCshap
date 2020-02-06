@@ -19,3 +19,23 @@ D:\TUNG\C Sharp\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\Multiple
 D:\TUNG\C Sharp\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen.csproj.GenerateResource.Cache
 D:\TUNG\C Sharp\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen.exe
 D:\TUNG\C Sharp\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen.pdb
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\bin\Debug\MultipleScreen.exe.config
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\bin\Debug\MultipleScreen.exe
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\bin\Debug\MultipleScreen.pdb
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen.csprojAssemblyReference.cache
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MainWindow.g.cs
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\Page1.g.cs
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\Page2.g.cs
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\Page3.g.cs
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\App.g.cs
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen_MarkupCompile.cache
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen_MarkupCompile.lref
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MainWindow.baml
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\Page1.baml
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\Page2.baml
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\Page3.baml
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen.g.resources
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen.Properties.Resources.resources
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen.csproj.GenerateResource.cache
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen.exe
+D:\TUNG\MyCode\MyCshap\WPF Application\MultipleScreen\MultipleScreen\obj\Debug\MultipleScreen.pdb
