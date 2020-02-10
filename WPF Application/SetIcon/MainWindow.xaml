@@ -1,0 +1,18 @@
+﻿<Window x:Class="SetIcon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SetIcon"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="700" Icon="Windows.ico">
+
+    <Grid>
+        <Button HorizontalAlignment="Center" VerticalAlignment="Center" Height="40" Width="160">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="CameraIcon.ico" Stretch="Uniform"></Image>
+                <TextBlock Text=" Camera" FontSize="25"/>
+            </StackPanel>
+        </Button>
+    </Grid>
+</Window>

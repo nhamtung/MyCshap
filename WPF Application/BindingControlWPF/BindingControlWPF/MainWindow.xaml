@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <CheckBox x:Name="checkBox" Content="Sensor" HorizontalAlignment="Left" Margin="198,55,0,0" VerticalAlignment="Top" Checked="checkBox_Checked" Unchecked="checkBox_Unchecked"/>
+        <CheckBox x:Name="checkBox" Content="Sensor 1" HorizontalAlignment="Left" Margin="198,55,0,0" VerticalAlignment="Top" Checked="checkBox_Checked" Unchecked="checkBox_Unchecked"/>
         <Label x:Name="SensorValue" Content="{Binding Value}" HorizontalAlignment="Left" Margin="209,138,0,0" VerticalAlignment="Top"/>
-        <CheckBox x:Name="checkBox1" Content="CheckBox" HorizontalAlignment="Left" Margin="372,55,0,0" VerticalAlignment="Top" Checked="checkBox1_Checked" Unchecked="checkBox1_Unchecked" />
+        <CheckBox x:Name="checkBox1" Content="Sensor 2" HorizontalAlignment="Left" Margin="372,55,0,0" VerticalAlignment="Top" Checked="checkBox1_Checked" Unchecked="checkBox1_Unchecked" />
         <Label x:Name="label" Content="{Binding Value}" HorizontalAlignment="Left" Margin="392,109,0,0" VerticalAlignment="Top"/>
 
     </Grid>

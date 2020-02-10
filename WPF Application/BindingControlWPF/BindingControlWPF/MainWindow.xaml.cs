@@ -20,25 +20,25 @@ namespace BindingControlWPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        private DistanceSensor sensor;
+        private DistanceSensor sensor1;
         private DistanceSensor sensor2;
         public MainWindow()
         {
             InitializeComponent();
-            sensor = new DistanceSensor();
+            sensor1 = new DistanceSensor();
             sensor2 = new DistanceSensor();
-            SensorValue.DataContext = sensor;
+            SensorValue.DataContext = sensor1;
             label.DataContext = sensor2;
         }
 
         private void checkBox_Checked(object sender, RoutedEventArgs e)
         {
-            sensor.Start();
+            sensor1.Start();
         }
 
         private void checkBox_Unchecked(object sender, RoutedEventArgs e)
         {
-            sensor.Stop();
+            sensor1.Stop();
         }
 
         private void checkBox1_Checked(object sender, RoutedEventArgs e)

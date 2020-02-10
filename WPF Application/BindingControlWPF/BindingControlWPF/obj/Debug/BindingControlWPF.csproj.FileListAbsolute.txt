@@ -12,3 +12,17 @@ D:\TUNG\C Sharp\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\Bi
 D:\TUNG\C Sharp\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF.csproj.GenerateResource.Cache
 D:\TUNG\C Sharp\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF.exe
 D:\TUNG\C Sharp\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF.pdb
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\bin\Debug\BindingControlWPF.exe.config
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\bin\Debug\BindingControlWPF.exe
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\bin\Debug\BindingControlWPF.pdb
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF.csprojAssemblyReference.cache
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\MainWindow.g.cs
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\App.g.cs
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF_MarkupCompile.cache
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF_MarkupCompile.lref
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\MainWindow.baml
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF.g.resources
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF.Properties.Resources.resources
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF.csproj.GenerateResource.cache
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF.exe
+D:\TUNG\MyCode\MyCshap\WPF Application\BindingControlWPF\BindingControlWPF\obj\Debug\BindingControlWPF.pdb

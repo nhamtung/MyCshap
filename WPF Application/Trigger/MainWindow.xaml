@@ -1,0 +1,28 @@
+﻿<Window x:Class="Trigger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trigger"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="500">
+    
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <CheckBox Name="cbSample" Content="HowKteam.com" />
+        <TextBlock HorizontalAlignment="Center" Margin="0,20,0,0" FontSize="48">
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Setter Property="Text" Value="Free Education" />
+                    <Setter Property="Foreground" Value="Purple" />
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=cbSample, Path=IsChecked}" Value="True">
+                            <Setter Property="Text" Value="Share to be better!" />
+                            <Setter Property="Foreground" Value="Orange" />
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+    </StackPanel>
+
+</Window>
