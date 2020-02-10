@@ -24,5 +24,58 @@
             </TextBlock.Style>
         </TextBlock>
     </StackPanel>
+    
+    <!--<Grid>
+        <TextBlock Text="HowKteam.com" FontSize="28" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Setter Property="Foreground" Value="Blue"></Setter>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Foreground" Value="Red" />
+                            <Setter Property="TextDecorations" Value="Underline" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+    </Grid>-->
 
+    <!--<Grid>
+        <Grid.Resources>
+            <Style TargetType="{x:Type TextBlock}" x:Key="styleTxbl">
+                <Style.Triggers>
+                    <EventTrigger RoutedEvent="UIElement.MouseEnter">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Duration="0:0:1.300" Storyboard.TargetProperty="FontSize" To="58" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="UIElement.MouseLeave">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Duration="0:0:1.800" Storyboard.TargetProperty="FontSize" To="18" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Style.Triggers>
+            </Style>
+        </Grid.Resources>
+        <TextBlock x:Name="lblStyled" 
+                   Text="Hello, styled world!" 
+                   FontSize="18" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center"
+                   Style="{StaticResource styleTxbl}">
+        </TextBlock>
+        <TextBlock 
+            Text="Hello, styled world!" 
+                   FontSize="18" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center"
+                   Style="{StaticResource styleTxbl}" 
+            Margin="238,223,127,72">
+        </TextBlock>
+    </Grid>-->
 </Window>
